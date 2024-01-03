@@ -1,0 +1,26 @@
+body {
+    background-color: #272226;
+    color: #b2a895;
+}
+
+h1 {
+    color: #c49250;
+}
+
+h2 {
+    color: #d5d2c9;
+}
+
+a {
+    color: #d5d2c9;
+}
+
+a:hover {
+    color: #c49250;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

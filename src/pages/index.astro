@@ -1,5 +1,12 @@
 ---
+import "../styles/global.css";
 
+import Header from "../components/Header.astro";
+import Card from "../components/Card.astro";
+import Footer from "../components/Footer.astro";
+
+const pageTitle = "Runeterra Art Explorer";
+import cards from "../../public/data/cards.json";
 ---
 
 <html lang="es">
@@ -8,9 +15,23 @@
         <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
         <meta name="viewport" content="width=device-width" />
         <meta name="generator" content={Astro.generator} />
-        <title>Runeterra Art Explorer</title>
+        <title>{pageTitle}</title>
     </head>
+    <Header />
     <body>
-        <h1>Runeterra Art Explorer</h1>
+        <h1>{pageTitle}</h1>
+        <div class="grid grid-cols-10 gap-1 mx-auto">
+            {
+                cards.map((card) => (
+                    <Card
+                        imagePath={card.fullAbsolutePath}
+                        altText={card.name}
+                        cardName={card.name}
+                        regions={card.regions}
+                    />
+                ))
+            }
+        </div>
     </body>
+    <Footer />
 </html>
