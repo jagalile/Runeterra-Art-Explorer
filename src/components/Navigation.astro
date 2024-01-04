@@ -1,18 +1,21 @@
 ---
 const regions = [
-    "Noxus",
-    "Demacia",
-    "Runeterra",
-    "Freljord",
-    "Shadow Isles",
-    "Targon",
-    "Ionia",
-    "Shurima",
-    "Bilgewater",
-    "Piltover & Zaun",
-    "Bandle City",
+  "Noxus",
+  "Demacia",
+  "Runeterra",
+  "Freljord",
+  "Shadow Isles",
+  "Targon",
+  "Ionia",
+  "Shurima",
+  "Bilgewater",
+  "Piltover & Zaun",
+  "Bandle City",
 ];
 ---
-<div class="nav-links">
+
+<nav
+  class="nav-links sticky top-0 z-50 pt-4 pb-4 navbar grid grid-cols-11 gap-1 mx-auto"
+>
   {regions.map((region) => <a>{region}</a>)}
-</div>
+</nav>

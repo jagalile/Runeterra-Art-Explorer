@@ -33,7 +33,7 @@ ul {
     padding: 0;
 }
 
-.card-border{
+.card-border {
     border-color: #c4925046;
 }
 
@@ -44,4 +44,8 @@ ul {
 .content {
     width: 90%;
     margin: auto;
+}
+
+.navbar {
+    background-color: var(--primary-background-color);
 }

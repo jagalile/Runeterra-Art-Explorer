@@ -1,7 +1,7 @@
 ---
 import "../styles/global.css";
 
-import Header from "../components/Header.astro";
+import Navigation from "../components/Navigation.astro";
 import Card from "../components/Card.astro";
 import Footer from "../components/Footer.astro";
 
@@ -17,11 +17,11 @@ import cards from "../../public/data/cards.json";
         <meta name="generator" content={Astro.generator} />
         <title>{pageTitle}</title>
     </head>
-    <Header />
     <body>
         <div class="flex flex-col h-screen">
             <section class="flex-grow content">
                 <h1 class="font-bold text-2xl mb-2">{pageTitle}</h1>
+                <Navigation />
                 <div class="grid grid-cols-10 gap-1 mx-auto">
                     {
                         cards.map((card) => (
