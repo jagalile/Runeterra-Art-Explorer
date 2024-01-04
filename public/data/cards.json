@@ -4,42 +4,2091 @@
         "regions": [
             "Ionia"
         ],
-        "fullAbsolutePath": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO015-full.png"
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO015-full.png",
+        "supertype": "Champion"
     },
     {
         "name": "Yasuo",
         "regions": [
             "Ionia"
         ],
-        "fullAbsolutePath": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO015T1-full.png"
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO015T1-full.png",
+        "supertype": "Champion"
     },
     {
-        "name": "Yasuo",
+        "name": "Keeper of Masks",
         "regions": [
             "Ionia"
         ],
-        "fullAbsolutePath": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO015T1-full.png"
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO020-full.png",
+        "supertype": ""
     },
     {
-        "name": "Yasuo",
+        "name": "Herald of Spring",
         "regions": [
             "Ionia"
         ],
-        "fullAbsolutePath": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO015T1-full.png"
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO045-full.png",
+        "supertype": ""
     },
     {
-        "name": "Yasuo",
+        "name": "Fae Bladetwirler",
         "regions": [
             "Ionia"
         ],
-        "fullAbsolutePath": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO015T1-full.png"
-    }
-    ,
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO008-full.png",
+        "supertype": ""
+    },
     {
-        "name": "Yasuo",
+        "name": "Kinkou Lifeblade",
         "regions": [
             "Ionia"
         ],
-        "fullAbsolutePath": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO015T1-full.png"
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Karma",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO041-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Karma",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO041T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Zed",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Zed",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO009T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Living Shadow",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO009T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenglade Elder",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nimble Poro",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Conspirator",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jeweled Protector",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Inspiring Mentor",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scaled Snapper",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shadow Assassin",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO057-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scaled Snapper",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO028T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scaled Snapper",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO028T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shen",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO032-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Shen",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO032T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Shadow Fiend",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yone, Windchaser",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zephyr Sage",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenglade Lookout",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Minah Swiftfoot",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Windfarer Hatchling",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Silent Shadowseer",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cloud Drinker",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Bladescout",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sparring Student",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenglade Duo",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kinkou Wayfinder",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO050-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yusari",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ren Shadowblade",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Emerald Awakener",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Highwayman",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO052-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Brigand",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO052T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Empyrean",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenglade Caretaker",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rivershaper",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solitary Monk",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01IO038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Draven",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX020-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Draven",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX020T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Vladimir",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX006-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Vladimir",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX006T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Crimson Curator",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Darius",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX038-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Arachnoid Host",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arachnoid Sentry",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Saboteur",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Darius",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX038T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "House Spider",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Disciple",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arena Battlecaster",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Marauder",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crowd Favorite",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Veteran",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shiraza the Blade",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Katarina",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX042-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Katarina",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX042T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Captain Farron",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Rearguard",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Grenadier",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion General",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Drummer",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arena Bookie",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Shieldbreaker",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Minotaur Reckoner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Battering Ram",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Aristocrat",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Hopeful",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Precious Pet",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Assessor",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Savage Reckoner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Gloryseeker",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Basilisk Rider",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Affectionate Poro",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Draven's Biggest Fan",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Reckless Trifarian",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Awakener",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kato The Arm",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01NX024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dawnspeakers",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lucian",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE022-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Lux",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE042-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Lux",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE042T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Swiftwing Lancer",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Defender",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Battlesmith",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tianna Crownguard",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Garen",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE012-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Garen",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE012T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Fiora",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE045-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Brightsteel Formation",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE052-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lucian",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE022T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Laurent Duelist",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mageseeker Inciter",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Bannerman",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "War Chefs",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Plucky Poro",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE049-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Laurent Chevalier",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fiora",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE045T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mageseeker Conservator",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Silverwing Vanguard",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Laurent Protege",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Lookout",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dauntless Vanguard",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mageseeker Persuader",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Squire",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Radiant Guardian",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Laurent Bladekeeper",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Sergeant",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Senna, Sentinel of Light",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Brightsteel Protector",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cithria of Cloudfield",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Firstblade",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fleetfeather Tracker",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Cavalry",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mageseeker Investigator",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cithria the Bold",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Redeemer",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE054-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Silverwing Diver",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01DE030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jinx",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ040-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jinx",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ040T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Teemo",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Teemo",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ008T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Heimerdinger",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Augmented Experimenter",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Parade Electrorig",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Heimerdinger",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T10-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mk2: Evolution Turret",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T7-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk4: Stormlobber",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T9-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk3: Apex Turret",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T8-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk5: Rocket Blaster",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk7: Armored Stomper",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T5-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk0: Windup Shredder",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk1: Wrenchbot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T4-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk6: Floor-B-Gone",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ056T6-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Academy Prodigy",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Eager Apprentice",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Puffcap Peddler",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Corina Veraza",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scrap Scuttler",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "T-Hex",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Boomcrew Rookie",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ054-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shady Character",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Used Cask Salesman",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sump Dredger",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ezreal",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ036-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ezreal",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ036T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jae Medarda",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zaunite Urchin",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Back Alley Barkeep",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Daring Poro",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Catastrophe",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ033T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Midenstokke Henchmen",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Golden Crushbot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ059-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Astute Academic",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sumpsnipe Scavenger",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Illegal Contraption",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ014T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Assembly Bot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chempunk Shredder",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Eminent Benefactor",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Funsmith",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Professor von Yipp",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Unstable Voltician",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Plaza Guardian",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Clump of Whumps",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Flame Chompers!",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chump Whump",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ058-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Amateur Aeronaut",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Intrepid Mariner",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chempunk Pickpocket",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Caustic Cask",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01PZ047-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Anivia",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR024-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Anivia",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR024T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Eggnivia",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR024T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tryndamere",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR039-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tryndamere",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR039T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Omen Hawk",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Braum",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rimefang Wolf",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Marksman",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scarthane Steffen",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lonely Poro",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jubilant Poro",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR008T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ashe",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR038-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ashe",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR038T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Unscarred Reaver",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Enraged Yeti",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yeti Yearling",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stalking Wolf",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR049-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Outriders",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Braum",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR009T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Alpha Wildclaw",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scarmother Vrynna",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Hearthguard ",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Poro Herder",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scarmaiden Reaver",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR054-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tarkaz the Tribeless",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Heart of the Fluft",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Snow Hare",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR049T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wyrding Stones",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Icevale Archer",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kindly Tavernkeeper",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR050-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "She Who Wanders",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR052-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Feral Mystic",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR047-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Icy Yeti",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bull Elnuk",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Trapper",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Troop of Elnuks",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rimetusk Shaman",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ancient Yeti",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mighty Poro",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fluft of Poros",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR043T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Starlit Seer",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "They Who Endure",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Babbling Bjerg",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Sentry",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01FR003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Phantom Prankster",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Elise",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI053-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Spider Queen Elise",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI053T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ancient Crocolith",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI057-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Soul Shepherd",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hecarim",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI042-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Hecarim",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI042T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Vilemaw",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI027T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cursed Keeper",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scribe of Sorrows",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kalista",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI030-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Kalista",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI030T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rhasa the Sunderer",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spiderling",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spectral Rider",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scuttlegeist",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sinister Poro",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Escaped Abomination",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI048T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thresh",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI052-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Commander Ledros",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Undying",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tortured Prodigy",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Oblivious Islander",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thresh",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI052T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Iron Harbinger",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hapless Aristocrat",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stirred Spirits",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Unleashed Spirit",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI007T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frenzied Skitterer",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ravenous Butcher",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mistwraith",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wraithcaller",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shark Chariot",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chronicler of Ruin",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ethereal Remitter",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI058-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spectral Matron",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arachnoid Horror",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Rekindler",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Darkwater Scourge",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Warden's Prey",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Soulgorger",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_0_0/set1/en_us/img/cards/01SI055-full.png",
+        "supertype": ""
     }
 ]

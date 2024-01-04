@@ -2,15 +2,34 @@
 const { imagePath, altText, cardName, regions } = Astro.props;
 ---
 
-<div class="card xl:col-span-2 lg:col-span-5 md:col-span-10 sm:col-span-10 col-span-10">
-    <img
-        src={imagePath}
-        alt={altText}
-        loading="lazy"
-        class="rounded-xl"
-    />
-    <div class="pl-3">
-        <h2>{cardName}</h2>
-        <p>{regions}</p>
+<div
+    class="card xl:col-span-2 lg:col-span-5 md:col-span-10 sm:col-span-10 col-span-10 border rounded-xl card-border"
+>
+    <img src={imagePath} alt={altText} loading="lazy" class="rounded-xl" />
+    <div class="grid grid-cols-2 pl-5">
+        <div>
+            <h2>{cardName}</h2>
+            <p>
+                {
+                    regions.length > 0 &&
+                        regions.slice(0, -1).join(", ") +
+                            (regions.length > 1 ? ", " : "")
+                }{regions.slice(-1)}
+            </p>
+        </div>
+        <div class="grid grid-cols-2 gap-3 mx-auto pt-3">
+            <img
+                src="../../public/img/copy-minimalistic.svg"
+                alt="Download"
+                loading="lazy"
+                class="h-5"
+            />
+            <img
+                src="../../public/img/download-minimalistic.svg"
+                alt="Download"
+                loading="lazy"
+                class="h-5"
+            />
+        </div>
     </div>
 </div>

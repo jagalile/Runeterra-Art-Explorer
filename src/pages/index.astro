@@ -6,32 +6,37 @@ import Card from "../components/Card.astro";
 import Footer from "../components/Footer.astro";
 
 const pageTitle = "Runeterra Art Explorer";
+const year = 2024;
 import cards from "../../public/data/cards.json";
 ---
 
 <html lang="es">
     <head>
         <meta charset="utf-8" />
-        <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+        <link rel="icon" type="image/svg+xml" href="img/favicon.ico" />
         <meta name="viewport" content="width=device-width" />
         <meta name="generator" content={Astro.generator} />
         <title>{pageTitle}</title>
     </head>
     <Header />
     <body>
-        <h1>{pageTitle}</h1>
-        <div class="grid grid-cols-10 gap-1 mx-auto">
-            {
-                cards.map((card) => (
-                    <Card
-                        imagePath={card.fullAbsolutePath}
-                        altText={card.name}
-                        cardName={card.name}
-                        regions={card.regions}
-                    />
-                ))
-            }
+        <div class="flex flex-col h-screen">
+            <section class="flex-grow content">
+                <h1 class="font-bold text-2xl mb-2">{pageTitle}</h1>
+                <div class="grid grid-cols-10 gap-1 mx-auto">
+                    {
+                        cards.map((card) => (
+                            <Card
+                                imagePath={card.img}
+                                altText={card.name}
+                                cardName={card.name}
+                                regions={card.regions}
+                            />
+                        ))
+                    }
+                </div>
+            </section>
+            <Footer pageTitle={pageTitle} />
         </div>
     </body>
-    <Footer />
 </html>
