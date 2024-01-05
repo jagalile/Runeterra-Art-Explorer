@@ -2,11 +2,13 @@
 const { imagePath, altText, cardName, regions } = Astro.props;
 ---
 
+<script src="../scripts/clipboard.js"></script>
+<!-- <script src="../scripts/download.js"></script> -->
 <div
     class="card xl:col-span-2 lg:col-span-5 md:col-span-10 sm:col-span-10 col-span-10 border rounded-xl card-border"
 >
     <img src={imagePath} alt={altText} loading="lazy" class="rounded-xl" />
-    <div class="grid grid-cols-2 pl-5">
+    <div class="grid grid-cols-2 pl-5 mx-auto my-auto">
         <div>
             <h2>{cardName}</h2>
             <p>
@@ -17,19 +19,34 @@ const { imagePath, altText, cardName, regions } = Astro.props;
                 }{regions.slice(-1)}
             </p>
         </div>
-        <div class="grid grid-cols-2 gap-3 mx-auto pt-3">
-            <img
-                src="/public/img/copy-minimalistic.svg"
-                alt="Copy url"
-                loading="lazy"
-                class="h-5"
-            />
-            <img
-                src="/public/img/download-minimalistic.svg"
-                alt="Download image"
-                loading="lazy"
-                class="h-5"
-            />
+        <div class="grid grid-cols-3 gap-3 mx-auto my-auto">
+            <a class="tooltip" href={imagePath} target="_blank">
+                <img
+                    src="/public/img/eye-minimalistic.svg"
+                    alt="See url"
+                    loading="lazy"
+                    class="h-5"
+                />
+                <span class="tooltiptext">See image</span>
+            </a>
+            <button class="tooltip copy-img-url" value={imagePath}>
+                <img
+                    src="/public/img/copy-minimalistic.svg"
+                    alt="Copy url"
+                    loading="lazy"
+                    class="h-5"
+                />
+                <span class="tooltiptext">Copy url</span>
+            </button>
+            <button  class="tooltip download-img" value={imagePath}>
+                <img
+                    src="/public/img/download-minimalistic.svg"
+                    alt="Download image"
+                    loading="lazy"
+                    class="h-5"
+                />
+                <span class="tooltiptext">Download img</span>
+            </button>
         </div>
     </div>
 </div>
