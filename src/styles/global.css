@@ -75,3 +75,15 @@ ul {
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
+
+.nav-links:hover {
+    cursor: pointer;
+}
+
+.aspect-ratio-hd {
+    aspect-ratio: 2048/1024;
+}
+
+.img-selector:hover {
+    scale: 1.25;
+}
