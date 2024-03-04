@@ -1,47 +1,42 @@
 ---
 import "../styles/global.css";
 
+import Layout from "../layouts/Layout.astro";
 import Footer from "../components/Footer.astro";
 
 const pageTitle = "Runeterra Art Explorer";
 ---
 
-<html lang="es">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="icon" type="image/svg+xml" href="img/favicon.ico" />
-        <meta name="viewport" content="width=device-width" />
-        <meta name="generator" content={Astro.generator} />
-        <title>{pageTitle}</title>
-    </head>
-    <body>
-        <div class="flex flex-col h-screen">
-            <section class="flex-grow content">
-                <h1 class="font-bold text-2xl mb-2">{pageTitle}</h1>
-                <article>
-                    <p>
-                        The Runeterra Art Explorer website stands as a testament
-                        to the spirit of non-profit and open-source initiatives.
-                        Committed to providing enthusiasts with a comprehensive
-                        exploration of the rich artistic tapestry within the
-                        Runeterra universe, this project operates without any
-                        profit motives.
-                    </p>
-                    <p>
-                        Its creators aim to share the beauty and creativity of
-                        Runeterra's art freely with the community. Moreover, the
-                        website embraces an open-source code structure, inviting
-                        developers and contributors to participate in its
-                        evolution.
-                    </p>
-                    <p>
-                        This commitment to transparency and collaboration
-                        ensures that the Runeterra Art Explorer remains a
-                        communal effort, fostering a space where the passion for
-                        art and the love for the Runeterra world can thrive
-                        without any commercial agenda.
-                    </p>
-                </article>
+<Layout pageTitle={pageTitle}>
+    <div class="flex flex-col h-screen">
+        <section class="flex-grow w-11/12 mx-auto">
+            <h1 class="font-bold text-3xl text-center mt-3 mb-3">
+                {pageTitle}
+            </h1>
+            <article class="w-1/2 mx-auto mb-5">
+                <p>
+                    The Runeterra Art Explorer website stands as a testament to
+                    the spirit of non-profit and open-source initiatives.
+                    Committed to providing enthusiasts with a comprehensive
+                    exploration of the rich artistic tapestry within the
+                    Runeterra universe, this project operates without any profit
+                    motives.
+                </p>
+                <p>
+                    Its creators aim to share the beauty and creativity of
+                    Runeterra's art freely with the community. Moreover, the
+                    website embraces an open-source code structure, inviting
+                    developers and contributors to participate in its evolution.
+                </p>
+                <p>
+                    This commitment to transparency and collaboration ensures
+                    that the Runeterra Art Explorer remains a communal effort,
+                    fostering a space where the passion for art and the love for
+                    the Runeterra world can thrive without any commercial
+                    agenda.
+                </p>
+            </article>
+            <section class="w-1/2 mx-auto">
                 <a
                     href="https://github.com/jagalile/Runeterra-Art-Explorer"
                     target="_blank"
@@ -59,7 +54,7 @@ const pageTitle = "Runeterra Art Explorer";
                     >
                 </a>
             </section>
-            <Footer pageTitle={pageTitle} />
-        </div>
-    </body>
-</html>
+        </section>
+        <Footer pageTitle={pageTitle} />
+    </div>
+</Layout>

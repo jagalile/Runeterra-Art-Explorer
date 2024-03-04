@@ -16,9 +16,9 @@ const regions = [
 ];
 ---
 
-<nav
-  class="nav-links sticky top-0 pt-4 pb-6 navbar grid grid-cols-12 gap-1 mx-auto justify-items-center"
->
-  <h1 class="font-bold text-2xl">{pageTitle}</h1>
-  {regions.map((region) => <a class="navbar-item">{region}</a>)}
+<nav class="nav-links sticky top-0 pt-4 pb-6 navbar">
+  <h1 class="font-bold text-3xl text-center mb-3">{pageTitle}</h1>
+  <div class="grid grid-cols-11 gap-1 mx-auto justify-items-center">
+    {regions.map((region) => <a class="navbar-item text-lg uppercase">{region}</a>)}
+  </div>
 </nav>

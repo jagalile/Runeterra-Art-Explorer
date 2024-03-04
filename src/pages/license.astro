@@ -1,63 +1,53 @@
 ---
 import "../styles/global.css";
 
+import Layout from "../layouts/Layout.astro";
 import Footer from "../components/Footer.astro";
 
 const pageTitle = "Runeterra Art Explorer";
 const year = 2024;
 ---
 
-<html lang="es">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="icon" type="image/svg+xml" href="img/favicon.ico" />
-        <meta name="viewport" content="width=device-width" />
-        <meta name="generator" content={Astro.generator} />
-        <title>{pageTitle}</title>
-    </head>
-    <body>
-        <div class="flex flex-col h-screen">
-            <section class="flex-grow content">
-                <h1 class="font-bold text-2xl mb-2">
-                    Licensing of {pageTitle}
-                </h1>
-                <article>
-                    <p>MIT License</p>
+<Layout pageTitle={pageTitle}>
+    <div class="flex flex-col h-screen">
+        <section class="flex-grow w-11/12 mx-auto">
+            <h1 class="font-bold text-3xl text-center mt-3 mb-3">
+                Licensing of {pageTitle}
+            </h1>
+            <article class="w-1/2 mx-auto mb-5">
+                <p>MIT License</p>
 
-                    <p>Copyright (c) {year} {pageTitle}</p>
+                <p>Copyright (c) {year} {pageTitle}</p>
 
-                    <p>
-                        Permission is hereby granted, free of charge, to any
-                        person obtaining a copy of this software and associated
-                        documentation files (the "Software"), to deal in the
-                        Software without restriction, including without
-                        limitation the rights to use, copy, modify, merge,
-                        publish, distribute, sublicense, and/or sell copies of
-                        the Software, and to permit persons to whom the Software
-                        is furnished to do so, subject to the following
-                        conditions:
-                    </p>
+                <p>
+                    Permission is hereby granted, free of charge, to any person
+                    obtaining a copy of this software and associated
+                    documentation files (the "Software"), to deal in the
+                    Software without restriction, including without limitation
+                    the rights to use, copy, modify, merge, publish, distribute,
+                    sublicense, and/or sell copies of the Software, and to
+                    permit persons to whom the Software is furnished to do so,
+                    subject to the following conditions:
+                </p>
 
-                    <p>
-                        The above copyright notice and this permission notice
-                        shall be included in all copies or substantial portions
-                        of the Software.
-                    </p>
+                <p>
+                    The above copyright notice and this permission notice shall
+                    be included in all copies or substantial portions of the
+                    Software.
+                </p>
 
-                    <p>
-                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF
-                        ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
-                        TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
-                        PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
-                        SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-                        CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-                        OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
-                        IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-                        DEALINGS IN THE SOFTWARE.
-                    </p>
-                </article>
-            </section>
-            <Footer pageTitle={pageTitle} />
-        </div>
-    </body>
-</html>
+                <p>
+                    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+                    KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+                    WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+                    PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+                    OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+                    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+                    OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+                    SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+                </p>
+            </article>
+        </section>
+        <Footer pageTitle={pageTitle} />
+    </div>
+</Layout>

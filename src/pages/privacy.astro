@@ -1,59 +1,50 @@
 ---
 import "../styles/global.css";
 
+import Layout from "../layouts/Layout.astro";
 import Footer from "../components/Footer.astro";
 
 const pageTitle = "Runeterra Art Explorer";
 ---
 
-<html lang="es">
-    <head>
-        <meta charset="utf-8" />
-        <link rel="icon" type="image/svg+xml" href="img/favicon.ico" />
-        <meta name="viewport" content="width=device-width" />
-        <meta name="generator" content={Astro.generator} />
-        <title>{pageTitle}</title>
-    </head>
-    <body>
-        <div class="flex flex-col h-screen">
-            <section class="flex-grow content">
-                <h1 class="font-bold text-2xl mb-2">
-                    Privacy Policy of {pageTitle}
-                </h1>
-                <article>
-                    <p>
-                        At <strong>{pageTitle}</strong>, we prioritize the
-                        privacy and security of our users. This Privacy Policy
-                        outlines how we collect, use, and protect your personal
-                        information when you use our image viewer service.
-                    </p>
-                    <h2>Image Data:</h2>
-                    <p>
-                        When you use our image viewer to access images from
-                        <a href="https://playruneterra.com/" target="_blank"
-                            >Riot Games, Inc.</a
-                        >, we do not store or retain the images themselves. Our
-                        service acts as a transient intermediary, facilitating
-                        the seamless display of images without saving or storing
-                        them on our servers.
-                    </p>
-                    <h2>Changes to Privacy Policy:</h2>
-                    <p>
-                        We reserve the right to update our Privacy Policy as
-                        needed. Any changes will be posted on this page, and
-                        users are encouraged to review this policy periodically.
-                    </p>
-                    <p>
-                        By using <strong>{pageTitle}</strong>, you agree to the
-                        terms outlined in this Privacy Policy. If you have any
-                        questions or concerns about our privacy practices,
-                        please contact us at <strong
-                            >javier.galilea.pesos@gmail.com</strong
-                        >.
-                    </p>
-                </article>
-            </section>
-            <Footer pageTitle={pageTitle} />
-        </div>
-    </body>
-</html>
+<Layout pageTitle={pageTitle}>
+    <div class="flex flex-col h-screen">
+        <section class="flex-grow w-11/12 mx-auto">
+            <h1 class="font-bold text-3xl text-center mt-3 mb-3">
+                {pageTitle}
+            </h1>
+            <article class="w-1/2 mx-auto mb-5">
+                <p>
+                    At <strong>{pageTitle}</strong>, we prioritize the privacy
+                    and security of our users. This Privacy Policy outlines how
+                    we collect, use, and protect your personal information when
+                    you use our image viewer service.
+                </p>
+                <h2>Image Data:</h2>
+                <p>
+                    When you use our image viewer to access images from
+                    <a href="https://playruneterra.com/" target="_blank"
+                        >Riot Games, Inc.</a
+                    >, we do not store or retain the images themselves. Our
+                    service acts as a transient intermediary, facilitating the
+                    seamless display of images without saving or storing them on
+                    our servers.
+                </p>
+                <h2>Changes to Privacy Policy:</h2>
+                <p>
+                    We reserve the right to update our Privacy Policy as needed.
+                    Any changes will be posted on this page, and users are
+                    encouraged to review this policy periodically.
+                </p>
+                <p>
+                    By using <strong>{pageTitle}</strong>, you agree to the
+                    terms outlined in this Privacy Policy. If you have any
+                    questions or concerns about our privacy practices, please
+                    contact us at <strong>javier.galilea.pesos@gmail.com</strong
+                    >.
+                </p>
+            </article>
+        </section>
+        <Footer pageTitle={pageTitle} />
+    </div>
+</Layout>
