@@ -1,4 +1,6 @@
 ---
+const { pageTitle } = Astro.props;
+
 const regions = [
   "Noxus",
   "Demacia",
@@ -15,7 +17,8 @@ const regions = [
 ---
 
 <nav
-  class="nav-links sticky top-0 pt-4 pb-4 navbar grid grid-cols-11 gap-1 mx-auto"
+  class="nav-links sticky top-0 pt-4 pb-6 navbar grid grid-cols-12 gap-1 mx-auto justify-items-center"
 >
-  {regions.map((region) => <a>{region}</a>)}
+  <h1 class="font-bold text-2xl">{pageTitle}</h1>
+  {regions.map((region) => <a class="navbar-item">{region}</a>)}
 </nav>

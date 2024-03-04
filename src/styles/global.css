@@ -19,6 +19,14 @@ h2 {
     color: var(--second-accent-color);
 }
 
+button {
+    color: var(--second-accent-color);
+}
+
+button:hover {
+    color: var(--primary-accent-color);
+}
+
 a {
     color: var(--second-accent-color);
 }
@@ -48,6 +56,7 @@ ul {
 
 .navbar {
     background-color: var(--primary-background-color);
+    z-index: 9;
 }
 
 
@@ -85,5 +94,10 @@ ul {
 }
 
 .img-selector:hover {
-    scale: 1.25;
+    scale: 1.15;
+}
+
+.navbar-item {
+    margin-top: auto;
+    margin-bottom: auto;
 }

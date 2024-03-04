@@ -20,8 +20,7 @@ import cards from "../../public/data/cards.json";
     <body>
         <div class="flex flex-col h-screen">
             <section class="flex-grow content">
-                <h1 class="font-bold text-2xl mb-2">{pageTitle}</h1>
-                <Navigation />
+                <Navigation pageTitle={pageTitle} />
                 <div class="grid grid-cols-10 gap-1 mx-auto">
                     {
                         cards.map((card) => (
