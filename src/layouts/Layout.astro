@@ -1,20 +1,18 @@
 ---
-interface Props {
-	title: string;
-}
+import GoogleAnalitycs from "../components/GoogleAnalytics.astro";
 
-const { title } = Astro.props;
+const { pageTitle } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8" />
-		<meta name="description" content="Astro description" />
+		<GoogleAnalitycs />
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="img/favicon.ico" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
+		<title>{pageTitle}</title>
 	</head>
 	<body>
 		<slot />
