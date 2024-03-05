@@ -8,7 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <a href="https://github.com/jagalile/Runeterra-Art-Explorer">
-  <img src="https://res.cloudinary.com/dx8j6h1rb/image/upload/v1709410184/propuesta-midudev/homepage_ghzbmk.png" alt="Logo" width="800" />
+  <img src="https://github.com/jagalile/Runeterra-Art-Explorer/blob/master/public/img/title.png" alt="Logo" width="800" />
 </a>
 
 ## Runeterra Art Explorer
@@ -40,9 +40,9 @@ Runeterra Art Explorer is a web project aimed at showcasing the art of the video
 
 Screenshots of the Runeterra Art Explorer website:
 
-![Mobile screenshot](https://res.cloudinary.com/dx8j6h1rb/image/upload/v1709408899/propuesta-midudev/Mobile_README_2_iawlyo.png)
+![Mobile screenshot](https://github.com/jagalile/Runeterra-Art-Explorer/blob/master/public/img/phone.png)
 
-![Computer screenshot](https://res.cloudinary.com/dx8j6h1rb/image/upload/v1709411123/propuesta-midudev/Desktop_web_vxfkfr.png)
+![Computer screenshot](https://github.com/jagalile/Runeterra-Art-Explorer/blob/master/public/img/web.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
