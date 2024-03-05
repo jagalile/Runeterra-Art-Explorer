@@ -1,24 +1,127 @@
 ---
 const { pageTitle } = Astro.props;
 
+const regionz = {
+  Noxus: "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-noxus.png",
+  Demacia: "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-demacia.png",
+  Runeterra:
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-runeterra.png",
+  Freljord:
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-freljord.png",
+  "Shadow Isles":
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-shadowisles.png",
+  Targon: "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-targon.png",
+  Ionia: "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-ionia.png",
+  Shurima: "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-shurima.png",
+  Bilgewater:
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-bilgewater.png",
+  "Piltover & Zaun":
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-piltoverzaun.png",
+  "Bandle City":
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-bandlecity.png",
+};
 const regions = [
-  "Noxus",
-  "Demacia",
-  "Runeterra",
-  "Freljord",
-  "Shadow Isles",
-  "Targon",
-  "Ionia",
-  "Shurima",
-  "Bilgewater",
-  "Piltover & Zaun",
-  "Bandle City",
+  ["Noxus", "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-noxus.png"],
+  [
+    "Demacia",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-demacia.png",
+  ],
+  [
+    "Runeterra",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-runeterra.png",
+  ],
+  [
+    "Freljord",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-freljord.png",
+  ],
+  [
+    "Shadow Isles",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-shadowisles.png",
+  ],
+  [
+    "Targon",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-targon.png",
+  ],
+  ["Ionia", "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-ionia.png"],
+  [
+    "Shurima",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-shurima.png",
+  ],
+  [
+    "Bilgewater",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-bilgewater.png",
+  ],
+  [
+    "Piltover & Zaun",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-piltoverzaun.png",
+  ],
+  [
+    "Bandle City",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-bandlecity.png",
+  ],
 ];
 ---
 
-<nav class="sticky top-0 pt-5 pb-5 navbar">
+<!-- <nav class="sticky top-0 pt-5 pb-5 navbar">
   <h1 class="font-bold text-3xl text-center mb-3">{pageTitle}</h1>
   <div class="grid grid-cols-11 gap-1 mx-auto justify-items-center">
     {regions.map((region) => <a class="nav-links navbar-item text-lg uppercase">{region}</a>)}
+  </div>
+</nav> -->
+<nav class="sticky top-0 bg-background-100 z-10">
+  <div class="flex flex-wrap items-center justify-between mx-auto p-5">
+    <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
+      <!-- <img
+        src="http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-noxus.png"
+        class="h-8"
+        alt="Flowbite Logo"
+      /> -->
+      <span
+        class="self-center text-2xl font-semibold whitespace-nowrap text-accent-100"
+        >{pageTitle}</span
+      >
+    </a>
+    <button
+      data-collapse-toggle="navbar-default"
+      type="button"
+      class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm rounded-lg md:hidden focus:outline-none"
+      aria-controls="navbar-default"
+      aria-expanded="false"
+    >
+      <span class="sr-only">Open main menu</span>
+      <svg
+        class="w-5 h-5"
+        aria-hidden="true"
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 17 14"
+      >
+        <path
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M1 1h15M1 7h15M1 13h15"></path>
+      </svg>
+    </button>
+    <div class="hidden w-full md:block md:w-auto" id="navbar-default">
+      <ul
+        class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700"
+      >
+        {
+          regions.map((region) => (
+            <li>
+              <a
+                href="#"
+                class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500"
+                aria-current="page"
+              >
+                <img src={region[1]} class="h-8" alt={region[0]} />
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
   </div>
 </nav>
