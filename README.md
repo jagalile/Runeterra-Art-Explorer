@@ -1,54 +1,122 @@
-# Astro Starter Kit: Basics
+<a name="readme-top"></a>
 
-```sh
-npm create astro@latest -- --template basics
-```
+<div align="center">
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+<a href="https://github.com/jagalile/Runeterra-Art-Explorer">
+  <img src="https://res.cloudinary.com/dx8j6h1rb/image/upload/v1709410184/propuesta-midudev/homepage_ghzbmk.png" alt="Logo" width="800" />
+</a>
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## Runeterra Art Explorer
 
-## 🚀 Project Structure
+Runeterra Art Explorer is a web project aimed at showcasing the art of the video game Legends of Runeterra in a simple way.\
+[Reportar error](https://github.com/jagalile/Runeterra-Art-Explorer/issues) · [Sugerir algo](https://github.com/jagalile/Runeterra-Art-Explorer/issues)
 
-Inside of your Astro project, you'll see the following folders and files:
+</div>
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+<details>
+<summary>Table of Contents</summary>
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- [Runeterra Art Explorer](#runeterra-art-explorer)
+- [Key Features](#key-features)
+- [To Begin](#to-begin)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Contributing to the Project](#contributing-to-the-project)
+- [🛠️ Stack](#️-stack)
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+</details>
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Key Features
 
-## 🧞 Commands
+- **Image Gallery**: Explore all the characters of Runeterra.
+- **Dive into each image**: Enlarge the images and observe every detail.
+- **Explore each region**: Filter characters by regions.
+- **Get the image link**: Copy the image link with just one click.
 
-All commands are run from the root of the project, from a terminal:
+Screenshots of the Runeterra Art Explorer website:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+![Mobile screenshot](https://res.cloudinary.com/dx8j6h1rb/image/upload/v1709408899/propuesta-midudev/Mobile_README_2_iawlyo.png)
 
-## 👀 Want to learn more?
+![Computer screenshot](https://res.cloudinary.com/dx8j6h1rb/image/upload/v1709411123/propuesta-midudev/Desktop_web_vxfkfr.png)
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## To Begin
+
+### Prerequisites
+
+- o NPM
+
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repository
+
+   ```sh
+   git clone https://github.com/jagalile/Runeterra-Art-Explorer.git
+   ```
+
+2. Install NPM packages
+
+   ```sh
+   npm install
+   ```
+
+3. Run the project
+
+   ```sh
+   npm run dev
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contributing to the Project
+
+Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contribution you make is highly appreciated!
+
+If you have any suggestions that could improve the project, please [_fork_](https://github.com/jagalile/Runeterra-Art-Explorer/fork) the repository and create a [_pull request_](https://github.com/jagalile/Runeterra-Art-Explorer/pulls). You can also simply open an [_issue_](https://github.com/jagalile/Runeterra-Art-Explorer/issues) with the "enhancement" label.
+
+Aquí tienes una guía rápida:
+
+1. [_fork_](https://github.com/jagalile/Runeterra-Art-Explorer/fork) the Project
+2. Clone your [_fork_](https://github.com/jagalile/Runeterra-Art-Explorer/fork) (`git clone <URL del fork>`)
+3. Add the original repository as a remote (`git remote add upstream <URL del repositorio original>`)
+4. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+5. Make your Changes (`git commit -m 'Add: some AmazingFeature'`)
+6. Push to the Branch (`git push origin feature/AmazingFeature`)
+7. Open a [_pull request_](https://github.com/jagalile/Runeterra-Art-Explorer/pulls)
+
+Please refer to our [contribution guide](https://github.com/jagalile/Runeterra-Art-Explorer/blob/master/CONTRIBUTING.md) to learn how you can start in the best way and following [best practices](https://github.com/jagalile/Runeterra-Art-Explorer/blob/main/CONTRIBUTING.md#buenas-prácticas-).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🛠️ Stack
+
+- [![Astro][astro-badge]][astro-url] - The web framework for content-driven websites.
+- [![Typescript][typescript-badge]][typescript-url] - JavaScript with syntax for types.
+- [![Tailwind CSS][tailwind-badge]][tailwind-url] - A utility-first CSS framework for rapidly building custom designs.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[astro-url]: https://astro.build/
+[typescript-url]: https://www.typescriptlang.org/
+[tailwind-url]: https://tailwindcss.com/
+[astro-badge]: https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=bd303a&color=352563
+[typescript-badge]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=blue
+[tailwind-badge]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
+[contributors-shield]: https://img.shields.io/github/contributors/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[contributors-url]: https://github.com/jagalile/Runeterra-Art-Explorer/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[forks-url]: https://github.com/jagalile/Runeterra-Art-Explorer/network/members
+[stars-shield]: https://img.shields.io/github/stars/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[stars-url]: https://github.com/jagalile/Runeterra-Art-Explorer/stargazers
+[issues-shield]: https://img.shields.io/github/issues/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[issues-url]: https://github.com/jagalile/Runeterra-Art-Explorer/issues
