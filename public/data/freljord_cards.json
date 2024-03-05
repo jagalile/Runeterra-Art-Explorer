@@ -1,0 +1,993 @@
+[
+    {
+        "name": "Wolfrider",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02FR009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sejuani",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02FR002-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ember Maiden",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02FR001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ursine Spiritwalker",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02FR005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stormclaw Ursine",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02FR005T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Tuskraider",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02FR008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sejuani",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02FR002T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ruthless Raider",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02FR006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Weaponsmith's Apprentice",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ornn",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR011-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ornn",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR011T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Spirit of the Ram",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR011T4-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Anaakca",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR018T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Favored Artisan",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Warden of the Tribes",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Woolly Snailmoth",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pouty Poro",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wrought Colossus",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hearthblood Mender",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Adept Weaponsmith",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Icevale Cultist",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Combat Cook",
+        "regions": [
+            "Demacia",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stubborn Husk",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hunting Boar",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06FR033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Harbinger of Thralls",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06FR030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Revna, the Lorekeeper",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06FR028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "It That Stares",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Troll Scavenger",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Augur of the Old Ones",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trundle",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR006-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Trundle",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR006T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ice Pillar",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR006T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Uzgar the Ancient",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Troll Ravager",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Faces of the Old Ones",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frostcoat Cub",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07FR008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Innovative Blacksmith",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07FR009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frostcoat Mother",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07FR008T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thrall Bulwark",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07FR005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Anivia",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR024-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Anivia",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR024T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Eggnivia",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR024T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tryndamere",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR039-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tryndamere",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR039T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Omen Hawk",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Braum",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rimefang Wolf",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Marksman",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scarthane Steffen",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lonely Poro",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jubilant Poro",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR008T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ashe",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR038-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ashe",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR038T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Unscarred Reaver",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Enraged Yeti",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yeti Yearling",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stalking Wolf",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR049-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Outriders",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Braum",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR009T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Alpha Wildclaw",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scarmother Vrynna",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Hearthguard ",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Poro Herder",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scarmaiden Reaver",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR054-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tarkaz the Tribeless",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Heart of the Fluft",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Snow Hare",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR049T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wyrding Stones",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Icevale Archer",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kindly Tavernkeeper",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR050-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "She Who Wanders",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR052-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Feral Mystic",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR047-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Icy Yeti",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bull Elnuk",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Trapper",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Troop of Elnuks",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rimetusk Shaman",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ancient Yeti",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mighty Poro",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fluft of Poros",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR043T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Starlit Seer",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "They Who Endure",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Babbling Bjerg",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avarosan Sentry",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01FR003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Draklorn Inquisitor",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frostguard Thrall",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR001T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lissandra",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR005-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Watcher",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR005T4-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lissandra",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR005T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rimefang Pack",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR019T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fabled Poro",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rimefang Denmother",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Abominable Guardian",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bladebound Berserker",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Volibear",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR001-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Volibear",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR001T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Flamecaller Caprine",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yadulski Snowdog",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rhond, the Magma Serpent",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Boadir of Blackened Ice",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Valhir's Prophet",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Berserker Ursine",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scholarly Pioneer",
+        "regions": [
+            "Demacia",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08DE006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Snowy Razorclaw",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07FR010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ingvar the Younger",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07FR015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crystalline Stormraptor",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07FR017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Glacial Saurian",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07FR016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gnar",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC161-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mega Gnar",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC161T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Furyhorn Crasher",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC170-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Proto Poro",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC160-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Poro Sled",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC140-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Murkwolf Shaman",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Murkwolf Rager",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR001T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mammoth Shaman",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mammoth Rager",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR002T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Udyr",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR013-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Udyr",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR013T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Hyara Allseer",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wrath of the Freljord",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tusk Speaker",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bone Scryer",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vulpine Wanderer",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05FR004-full.png",
+        "supertype": ""
+    }
+]

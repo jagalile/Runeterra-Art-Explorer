@@ -1,0 +1,931 @@
+[
+    {
+        "name": "Loyal Badgerbear",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02DE003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greathorn Companion",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02DE008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenfang Warden",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02DE004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Quinn",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02DE006-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Valor",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02DE006T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Quinn",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02DE006T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Grizzled Ranger",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02DE009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Genevieve Elmheart",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02DE010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blocking Badgerbear",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kind-hearted Recruit",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vayne",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE021-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Vayne",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE021T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Trusty Ramhound",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Joraal",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE011T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Petricite Charger",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bloodcursed Harpy",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zealous Ranger-Knight",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Widowed Huntress",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Steadfast Elkin",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ranger-Knight Defector",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Combat Cook",
+        "regions": [
+            "Demacia",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Faithful Wolfdog",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06DE034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hardy Husk",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T11-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lord Eldred, Mageseeker Leader",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06DE038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Protective Broodfather",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06DE036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Captain Arrika",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dragonguard Lieutenant",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stony Suppressor",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Screeching Dragon",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shyvana",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE011-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Dragon Shyvana",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE011T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Dragonguard Lookout",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stalking Broodmother",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Egghead Researcher",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kadregrin the Infernal",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dawnspeakers",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lucian",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE022-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Lux",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE042-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Lux",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE042T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Swiftwing Lancer",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Defender",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Battlesmith",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tianna Crownguard",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Garen",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE012-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Garen",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE012T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Fiora",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE045-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Brightsteel Formation",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE052-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lucian",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE022T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Laurent Duelist",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mageseeker Inciter",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Bannerman",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "War Chefs",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Plucky Poro",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE049-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Laurent Chevalier",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fiora",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE045T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mageseeker Conservator",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Silverwing Vanguard",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Laurent Protege",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Lookout",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dauntless Vanguard",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mageseeker Persuader",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Squire",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Radiant Guardian",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Laurent Bladekeeper",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Sergeant",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Senna, Sentinel of Light",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Brightsteel Protector",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cithria of Cloudfield",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Firstblade",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fleetfeather Tracker",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Cavalry",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mageseeker Investigator",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cithria the Bold",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vanguard Redeemer",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE054-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Silverwing Diver",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01DE030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ardent Tracker",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dragon Chow",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Honored Lord",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jarvan IV",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jarvan IV",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE008T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Cithria, Lady of Clouds",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ruined Dragonguard",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "King Jarvan III",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kadregrin the Ruined",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Towering Stonehorn",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Swiftwing Flight",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Penitent Squire",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gallant Rider",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04DE009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Morgana",
+        "regions": [
+            "Targon",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT003-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Morgana",
+        "regions": [
+            "Targon",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT003T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Scholarly Pioneer",
+        "regions": [
+            "Demacia",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08DE006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mageseeker Inquisitor",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08DE017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cloud Drake",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08DE025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Kingfisher",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08DE022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Alatis the Gallant",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08DE026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dragon Allegiant",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08DE013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scrutinizing Sergeant",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07DE014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crested Lionhawk",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07DE015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mageseeker Junior",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07DE011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Balen the Benevolent",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07DE016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yordle Ranger",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC179-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Poppy",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC041-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Pompous Cavalier",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Poppy",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC041T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Trumpetecher",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC089-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gorlith the Unscalable",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Galio",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Galio",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE009T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Durand Sculptor",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Petricite Stag",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mountain Drake",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Durand Architect",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Durand Protege",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Petricite Broadwing",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Petricite Hound",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05DE018-full.png",
+        "supertype": ""
+    }
+]

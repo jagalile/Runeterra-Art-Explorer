@@ -1,0 +1,1165 @@
+[
+    {
+        "name": "Fizz",
+        "regions": [
+            "Bilgewater",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW046-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Fizz",
+        "regions": [
+            "Bilgewater",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW046T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Wandering Shepherd",
+        "regions": [
+            "Targon",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Norra",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC015-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Norra",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC015T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Banana Blaster",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Tea Maker",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Baalkux",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC029T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blooming Cultist",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Junk Construct",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Curious Changelings",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Realm's Caretaker",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Living Library",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scattered Husk",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T3-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Paparo the Great",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BC036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Byrd, The Bellringer",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BC026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Maduli, The Gatekeeper",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BC031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lulu",
+        "regions": [
+            "Ionia",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO002-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Lulu",
+        "regions": [
+            "Ionia",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO002T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Carved Bladetwirler",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BC005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Teemo",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Teemo",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ008T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Heimerdinger",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Heimerdinger",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T10-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Skip, \"King of the Reef\"",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BC002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Portal Pioneer",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BC006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Portia the Peculiar",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BC004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mister Thrift",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07BC020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Portal Scholar",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07BC018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ferocious Fluffs",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07BC011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kennen",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC058-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Shark Trainer",
+        "regions": [
+            "Bandle City",
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wizened Wizard",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC102-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Short Tooth",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC010T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Swole Scout",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC099-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tristana",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC133-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tristana",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC133T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Minitee",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Megatee",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC023T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Grumbleslug",
+        "regions": [
+            "Bandle City",
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC106-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gnar",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC161-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mega Gnar",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC161T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Earthshaker",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC086-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Inventive Chemist",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC073-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gruff Grenadier",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Furious Faefolk",
+        "regions": [
+            "Bandle City",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC148-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T5-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T7-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T8-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Salty Spinner",
+        "regions": [
+            "Bandle City",
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC173-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Minion",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC119-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rainbowfish",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Veigar",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC093-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Grand Overseer Veigar",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC093T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Stone Stackers",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tenor of Terror",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC096-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bass of Burden",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC096T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rumble",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC088-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rumble",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC088T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Arena Mechacaster",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC190-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kennen",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC058T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Arena Promoter",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC091-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Professor Von Mech",
+        "regions": [
+            "Bandle City",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC172-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ziggs",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC163-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ziggs",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC163T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mirror Mage",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC151-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bandle Commando",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC167-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yordle Ranger",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC179-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mushroom Ring",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC221-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Poppy",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC041-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Bandle Gunners",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC105-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Quick Quill",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC066-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Papercraft Dragon",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC177-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stormcloud",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC127T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Safety Inspector",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC212-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dunehopper Mech",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC196-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Puffcap Pup",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC100-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Twisted Catalyzer",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC098-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yordle Newbie",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC122-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yordle Captain",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC120-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thunder Fist",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pompous Cavalier",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Poppy",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC041T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Spotted Toad",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC168-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Furyhorn Crasher",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC170-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gust Monk",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Teenydactyl",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fix-Em-Uppers",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC138-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Proto Poro",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC160-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kelp Maidens",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lil Dipper",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC079-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Assistant Librarian",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Conchologist",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC049-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Masa, Crashing Thunder",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC046T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bouncer & Bolt",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC082-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hungry Owlcat",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC167T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Aloof Travelers",
+        "regions": [
+            "Bandle City",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC152-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ava Achiever",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC070-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bitsy Lizard",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yordle Squire",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC145-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lava Lizard",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC015T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Poro Sled",
+        "regions": [
+            "Bandle City",
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC140-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arena Kingpin",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC129-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Otterpus",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ember Monk",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC155-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Giga Gromp",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC168T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bomber Twins",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC192-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shadowtech Walker",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC169-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chief Nakotak",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC162-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gleaming Lantern",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Arsenal",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scholarly Climber",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC110-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tornado Warrior",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC063-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bilgerat Rascal",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC085-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blastcone Seedling",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC112-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Squeaker",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC084-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Geode Mechaforcer",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC171-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Babbling Balladeers",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC184-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Smash & Dash",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC080-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bandle City Mayor",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC116-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hothead",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC130-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trumpetecher",
+        "regions": [
+            "Bandle City",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC089-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Benemone",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC050-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Darkbulb Acolyte",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC094-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mini-Minitee",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC001T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Terrordactyl",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC014T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bandle Painter",
+        "regions": [
+            "Bandle City",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC146-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yordle Smith",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC235-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Loping Telescope",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC175-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rissu, The Silent Storm",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC127-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lecturing Yordle",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC069-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stilted Robemaker",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC057-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yordle Explorer",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC108-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Grandfather Fae",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC183-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Curious Shellfolk",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC188-full.png",
+        "supertype": ""
+    }
+]

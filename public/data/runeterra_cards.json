@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Jax",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jax",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU008T7-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ryze",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ryze",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T5-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Kayn",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU005-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rhaast",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU005T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Kayn",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU005T8-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "The Shadow Assassin",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU005T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Aatrox",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU026-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Aatrox",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU026T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Varus",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Varus",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU009T6-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Evelynn",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Evelynn",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T5-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Bard",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU001-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Bard",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU001T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jhin",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU002-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jhin",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU002T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Elder Dragon",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08RU014-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Elder Dragon",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08RU014T9-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "The Poro King",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07RU015-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "The Poro King",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07RU015T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Neeko",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07RU012-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Neeko",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07RU012T2-full.png",
+        "supertype": "Champion"
+    }
+]

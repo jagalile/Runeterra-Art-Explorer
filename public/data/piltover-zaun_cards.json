@@ -1,0 +1,1060 @@
+[
+    {
+        "name": "Subpurrsible",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02PZ001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Veteran Investigator",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02PZ010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Insightful Investigator",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02PZ007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chief Mechanist Zevi",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02PZ002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vi",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02PZ008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Vi",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02PZ008T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Patrol Wardens",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02PZ005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Seraphine",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ021-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Seraphine",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ021T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Fanclub President",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Styraatu",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ008T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ambitious Cultist",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cunning Kitten",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Zaun Diva",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Acoustician",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Acorn, the Hextechnician",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zaun Bouncer",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Piltovan Castaway",
+        "regions": [
+            "Bilgewater",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BW029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Breakneck Husk",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T4-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Evil Imperfectionist",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06PZ042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solitude",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06PZ025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Patched Porobot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ballistic Bot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Viktor",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ003-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Viktor",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ003T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mechanized Mimic",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Armed Gearhead",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nyandroid",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Augmented Clockling",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07PZ009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Flashbomb Peddler",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07PZ017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jinx",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ040-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jinx",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ040T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Teemo",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Teemo",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ008T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Heimerdinger",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Augmented Experimenter",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Parade Electrorig",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Heimerdinger",
+        "regions": [
+            "Piltover & Zaun",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T10-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mk2: Evolution Turret",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T7-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk4: Stormlobber",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T9-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk3: Apex Turret",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T8-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk5: Rocket Blaster",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk7: Armored Stomper",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T5-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk0: Windup Shredder",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk1: Wrenchbot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T4-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mk6: Floor-B-Gone",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ056T6-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Academy Prodigy",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Eager Apprentice",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Puffcap Peddler",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Corina Veraza",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scrap Scuttler",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "T-Hex",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Boomcrew Rookie",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ054-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shady Character",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Used Cask Salesman",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sump Dredger",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ezreal",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ036-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ezreal",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ036T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jae Medarda",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zaunite Urchin",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Back Alley Barkeep",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Daring Poro",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Catastrophe",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ033T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Midenstokke Henchmen",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Golden Crushbot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ059-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Astute Academic",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sumpsnipe Scavenger",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Illegal Contraption",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ014T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Assembly Bot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chempunk Shredder",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Eminent Benefactor",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Funsmith",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Professor von Yipp",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Unstable Voltician",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Plaza Guardian",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Clump of Whumps",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Flame Chompers!",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chump Whump",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ058-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Amateur Aeronaut",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Intrepid Mariner",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chempunk Pickpocket",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Caustic Cask",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01PZ047-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ekko",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ001-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ekko",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ001T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Chirean Sumpworker",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sumpworks Posse",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ005T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fallen Feline",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Defective Swapbot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Volunteer Elnuk",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Boom Baboon",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Practical Perfectionist",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Adaptatron 3000",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dropboarder",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04PZ004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Octo Adventurer",
+        "regions": [
+            "Bilgewater",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Prototype Porobot",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chemtech Drake",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Janna",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ001-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Janna",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ001T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Iascylla, Figurehead of the Deep",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Windborne Mariner",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Maryam, Temple Caretaker",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Galesong Swallow",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ026T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Charlatan Fishmonger",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Exalted Cloudwinder",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chemtech Catermobile",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07PZ019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Anura & Froop",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07PZ021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Runaway Scraptrap",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07PZ015T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Furious Faefolk",
+        "regions": [
+            "Bandle City",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC148-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Professor Von Mech",
+        "regions": [
+            "Bandle City",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC172-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Aloof Travelers",
+        "regions": [
+            "Bandle City",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC152-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bandle Painter",
+        "regions": [
+            "Bandle City",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC146-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Justice Rider",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Station Archivist",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Forge Worker",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Albus Ferros",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jayce",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ022-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jayce",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ022T8-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jayce",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ022T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jayce",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ022T7-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jayce",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ022T6-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jayce",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ022T9-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ferros Financier",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Corina, Mastermind",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Forge Chief",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Caitlyn",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ006-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Officer Squad",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sting Officer",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ferros Skycruiser",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stinky Whump",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Caitlyn",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ006T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Hextech Handler",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ029-full.png",
+        "supertype": ""
+    }
+]

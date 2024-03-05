@@ -1,0 +1,1039 @@
+[
+    {
+        "name": "Xolaani the Bloodweaver",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Seraphic Wyvern",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mihira, Aspect of Justice",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Winged Messenger",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Xolaani, Aspect's Bane",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT035T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Twilit Protector",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kayle",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Kayle",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT008T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Wandering Shepherd",
+        "regions": [
+            "Targon",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Divine Clerk",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Generous Gemcrafter",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Horazi",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT006T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lawkeeper",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lunari Cultist",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06MT032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solari Stellacorn",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Esmus, Breath of the World",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Winding Light",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Starhound Pack",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Enraged Husk",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T9-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rahvun, Daylight's Spear",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crystal Ibex",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT067-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Immortal Fire",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT083-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Great Beyond",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Messenger",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Charger",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT090-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Traveler",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT070-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Golden Sister",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT059-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Fangs",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT221-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Serpent",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Scourge",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Destroyer",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Warrior",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT050-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Trickster",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT095-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Silver Sister",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT059T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lunari Duskbringer",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT073-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Aphelios",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT217-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Aphelios",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT217T13-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Sun Guardian",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Diana",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT056-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Diana",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT056T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Resplendent Stellacorn",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cygnus the Moonstalker",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT047-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lunari Shadestalker",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT094-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mountain Goat",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT092-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Broadbacked Protector",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT060-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sneaky Zeebles",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Soraka",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT055-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Soraka",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT055T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Gift Giver",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Taric",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT058-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Giddy Sparkleologist",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT062-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sparklefly",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spacey Sketcher",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT086-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Startled Stomper",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Leona",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT054-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "The Cloven Way",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT220-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Infinite Mindsplitter",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Inviolus Vox",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zoe",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Zoe",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT009T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Aurelion Sol",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT087-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Aurelion Sol",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT087T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "The Flight",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT214-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tyari the Traveler",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT071-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spring Guardian",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT080-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solari Sunforger",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT057-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mentor of the Stones",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solari Priestess",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT096-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solari Shieldbearer",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crescent Guardian",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT089-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Leona",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT054T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Moondreamer",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT063-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Eclipse Dragon",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT100-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mountain Scryer",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT076-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Taric",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT058T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Star Shepherd",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Starry Scamp",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT079-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fledgling Stellacorn",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Whiteflame Protector",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Herald of Dragons",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Sky Shadows",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT216-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arbiter of the Peak",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mountain Sojourners",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT081-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stargazer",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solari Soldier",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT088-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Grandfather Rumul",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lunari Priestess",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT075-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fused Firebrand",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT072-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Porofly",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cosmic Youngling",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07MT003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sacrificial Scholar",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07MT007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Malphite",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Malphite",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT008T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Chip",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frightened Ibex",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blue Sentinel",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solari Sunhawk",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Earth Elemental",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stonebreaker",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spectral Surveyor",
+        "regions": [
+            "Shadow Isles",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Morgana",
+        "regions": [
+            "Targon",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT003-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Morgana",
+        "regions": [
+            "Targon",
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT003T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mihira, Aspect Ascendant",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ruby-Eyed Conjurer",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chained Caster",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lisa and Dolly",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gentle Gemdragon",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ottrani Dragon-Worshiper",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Veiled Protector",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Herald of Celestial Convergence",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08MT027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Star-Crossed Lovers",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07MT006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T5-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T7-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T8-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yuumi",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC029T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Scholarly Climber",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC110-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Geode Mechaforcer",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC171-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Loping Telescope",
+        "regions": [
+            "Bandle City",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC175-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Camphor, the Doubt",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05MT004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wounded Whiteflame",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05MT006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pantheon",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05MT003-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Iula",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05MT013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pantheon",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05MT003T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Blinded Mystic",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05MT010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Freed Colossus",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05MT012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Saga Seeker",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05MT005-full.png",
+        "supertype": ""
+    }
+]

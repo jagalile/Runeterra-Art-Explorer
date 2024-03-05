@@ -52,7 +52,6 @@ ul {
 
 .navbar {
     background-color: var(--primary-background-color);
-    z-index: 9;
 }
 
 

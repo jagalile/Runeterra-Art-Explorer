@@ -21,43 +21,60 @@ const regionz = {
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-bandlecity.png",
 };
 const regions = [
-  ["Noxus", "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-noxus.png"],
+  [
+    "Noxus",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-noxus.png",
+    "noxus",
+  ],
   [
     "Demacia",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-demacia.png",
+    "demacia",
   ],
   [
     "Runeterra",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-runeterra.png",
+    "runeterra",
   ],
   [
     "Freljord",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-freljord.png",
+    "freljord",
   ],
   [
     "Shadow Isles",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-shadowisles.png",
+    "shadow-isles",
   ],
   [
     "Targon",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-targon.png",
+    "targon",
   ],
-  ["Ionia", "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-ionia.png"],
+  [
+    "Ionia",
+    "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-ionia.png",
+    "ionia",
+  ],
   [
     "Shurima",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-shurima.png",
+    "shurima",
   ],
   [
     "Bilgewater",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-bilgewater.png",
+    "bilgewater",
   ],
   [
     "Piltover & Zaun",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-piltoverzaun.png",
+    "piltover-zaun",
   ],
   [
     "Bandle City",
     "http://dd.b.pvp.net/5_2_0/core/en_us/img/regions/icon-bandlecity.png",
+    "bandle-city",
   ],
 ];
 ---
@@ -110,13 +127,13 @@ const regions = [
       >
         {
           regions.map((region) => (
-            <li>
+            <li class="hover:bg-background-200 hover:rounded-md">
               <a
-                href="#"
+                href={region[2]}
                 class="block py-2 px-3 text-white bg-blue-700 rounded md:bg-transparent md:text-blue-700 md:p-0 dark:text-white md:dark:text-blue-500"
                 aria-current="page"
               >
-                <img src={region[1]} class="h-8" alt={region[0]} />
+                <img src={region[1]} class="h-8 active:bg-violet-700" alt={region[0]} />
               </a>
             </li>
           ))

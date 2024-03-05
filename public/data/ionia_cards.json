@@ -1,0 +1,1005 @@
+[
+    {
+        "name": "Scales of the Dragon",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02IO002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lee Sin",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02IO006-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Lee Sin",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02IO006T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Horns of the Dragon",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02IO004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Eye of the Dragon",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02IO003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dragonling",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02IO003T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Claws of the Dragon",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02IO001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tail of the Dragon",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02IO005T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ionian Hookmaster",
+        "regions": [
+            "Noxus",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06NX023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Serene Sky-Singer",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Spirit of Wuju",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vastayan Disciple",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Praa the Breachwalker",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO023T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Master Yi",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jun, the Prodigy",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Witness",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Master Yi",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO008T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Shadowblade Fanatic",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Longtail",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Disciple of Doran",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dragoncaller",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fading Husk",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T12-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Maker",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06IO004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Stagehand",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06IO003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kinkou Student",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06IO035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pix!",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Squirrel",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO008T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Flower Child",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lulu",
+        "regions": [
+            "Ionia",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO002-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Lulu",
+        "regions": [
+            "Ionia",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO002T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Swole Squirrel",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tasty Faefolk",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fae Guide",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trevor Snoozebottom",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mumblesprite",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO007T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Young Witch",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fuzzy Caretaker",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Master Bingwen, the Sieve",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Old Timer",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sett",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO011-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Sett",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO011T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Royal Shimmerwing",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Attentive Accountant",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Smooth Mixologist",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Beguiling Cobra",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO047-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pit Professional",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bout Security",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07IO012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yasuo",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO015-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Yasuo",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO015T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Keeper of Masks",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Herald of Spring",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fae Bladetwirler",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kinkou Lifeblade",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Karma",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO041-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Karma",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO041T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Zed",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Zed",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO009T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Living Shadow",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO009T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenglade Elder",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nimble Poro",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Conspirator",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jeweled Protector",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Inspiring Mentor",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scaled Snapper",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shadow Assassin",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO057-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shen",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO032-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Shen",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO032T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Shadow Fiend",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yone, Windchaser",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zephyr Sage",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenglade Lookout",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Minah Swiftfoot",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Windfarer Hatchling",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Silent Shadowseer",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cloud Drinker",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Bladescout",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sparring Student",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenglade Duo",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kinkou Wayfinder",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO050-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yusari",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ren Shadowblade",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Emerald Awakener",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Highwayman",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO052-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Navori Brigand",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO052T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Empyrean",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Greenglade Caretaker",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rivershaper",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solitary Monk",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01IO038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Irelia",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO005-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Scattered Pod",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Irelia",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO005T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Blossoming Blade",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dancing Droplet",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shadow Apprentice",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zinneia, Steel Crescendo",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blade",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sacred Protector",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ribbon Dancer",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Field Musicians",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Coastal Defender",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04IO006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ocean Drake",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08IO012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Heisho, Shell of the World",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08IO014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trusty Adnere",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08IO019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Adnere's Aviarists",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08IO019T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Prancing Sea Spirits",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08IO023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Portal Pioneer",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BC006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "All-Seeing Oracle",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07IO043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Airis",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07IO049-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kennen",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC058-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Kennen",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC058T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mushroom Ring",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC221-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hungry Owlcat",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC167T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shadowtech Walker",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC169-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blastcone Seedling",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC112-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Grandfather Fae",
+        "regions": [
+            "Bandle City",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC183-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pathless Ancient",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ahri",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO004-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ahri",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO004T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Windsinger",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sai'nen Thousand-Tailed",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Woodland Keeper",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tail-Cloak Matriarch",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Mourned",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Liminal Guardian",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO006T1-full.png",
+        "supertype": ""
+    }
+]

@@ -1,0 +1,993 @@
+[
+    {
+        "name": "Shellshocker ",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Slippery Waverider",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW057-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Beast Below",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Prowling Cutthroat",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Monkey Idol",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Powder Monkey",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW034T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Devourer of the Depths",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crackshot Corsair",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW060-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Yordle Grifter",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shipwreck Hoarder",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vicious Platewyrm",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW030T4-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bubble Bear",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Brash Gambler",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Coral Creatures",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jagged Taskmaster",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Citrus Courier",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zap Sprayfin",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Razorscale Hunter",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sheriff Lariette Rose",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jagged Butcher",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW058-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Riptide Rex",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Abyssal Eye",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Petty Officer",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dreg Dredgers",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW047-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dreadway Deckhand",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Dreadway",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Slotbot",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hunting Fleet",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Smooth Soloist",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW050-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Syren",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Plunder Poro",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pool Shark",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hired Gun",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jaull Hunters",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mystifying Magician",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Golden Narwhal",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Black Market Merchant",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gangplank",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW032-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Gangplank",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW032T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Powder Keg",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW032T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Miss Fortune",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW022-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Miss Fortune",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW022T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Fizz",
+        "regions": [
+            "Bilgewater",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW046-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Fizz",
+        "regions": [
+            "Bilgewater",
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW046T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Longtooth",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW046T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Twisted Fate",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW026-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Twisted Fate",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW026T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Nautilus",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW053-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Nautilus",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW053T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Island Navigator",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02BW062-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Piltovan Castaway",
+        "regions": [
+            "Bilgewater",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BW029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Buhru Cultist",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BW026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ibaaros",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BW014T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wily Newtfish",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BW044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mischievous Marai",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BW047-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thrashing Husk",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T10-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Illaoi",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW006-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Illaoi",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW006T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tentacle",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW006T3-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wharf Rat",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Megatusk",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nagakabouros",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nagakabouros' Tentacle",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW011T5-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Sea's Voice",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Watchful Idol",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Buhru Lookout",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Buhru Leader",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Steem",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BW018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jack, the Winner",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tahm Kench",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW004-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tahm Kench",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW004T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Lounging Lizard",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Boxtopus",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crusty Codger",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wise Fry",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wiggly Burblefish",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fortune Croaker",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mad Ol' Babs",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Brazen Buccaneer",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jack",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW002-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Jack",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW002T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Nukkle",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Perfidious Promoter",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mako",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW040T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bull",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW040T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pocket Picker",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Five-Punch Pablo",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Angel",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Father Fury",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW027-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The King's Court",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Inferna",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BW025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Jaull-fish",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Redfin Hammersnout",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pyke",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW005-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Pyke",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW005T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Sharkling",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Snapjaw Swarm",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ruined Rex",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nilah",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Nilah",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW008T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Chakram Dancer",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Tidedancer",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Master Lookout",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dedicant of the Challenge",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Octo Adventurer",
+        "regions": [
+            "Bilgewater",
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wizened Helmsman",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sefirsa, Scourge of the Deep",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Honest Croupier",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vikrash the Exuberant",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Deck Hunter",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07BW042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dragon Prince Grinzo",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07BW039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shark Trainer",
+        "regions": [
+            "Bandle City",
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Grumbleslug",
+        "regions": [
+            "Bandle City",
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC106-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Salty Spinner",
+        "regions": [
+            "Bandle City",
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC173-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nami",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW005-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Nami",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW005T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Journeying Sandhopper",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Abyssal Guard",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fleet Admiral Shelly",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avatar of the Tides",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Marai Warden",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Marai Greatmother",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Marai Songstress",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BW013-full.png",
+        "supertype": ""
+    }
+]

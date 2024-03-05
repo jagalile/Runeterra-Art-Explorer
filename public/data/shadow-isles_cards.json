@@ -1,0 +1,1036 @@
+[
+    {
+        "name": "Deadbloom Wanderer",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Maokai",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI008-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Sapling",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI008T3-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Maokai",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI008T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Thorny Toad",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Terror of the Tides",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Neverglade Collector",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Overgrown Snapvine",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blighted Caretaker",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Barkbeast",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02SI006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wraith of Echoes",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Taarosh",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI007T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Redeemed Prodigy",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fireth, Reaper of the Sands",
+        "regions": [
+            "Shadow Isles",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Keeper of the Box",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Deathless Knight",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI042-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ceaseless Sentry",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Moonlit Glenkeeper",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Haunted Husk",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T7-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Gwen",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI012-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Gwen",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI012T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Eternal Dancers",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ghastly Band",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vora",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Conductor Of The Mists",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Boisterous Host",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Phantom Butler",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ghostly Paramour",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sultur",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Evershade Stalker",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nocturne",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI005-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Nocturne",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI005T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Doombeast",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pesky Specter",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stygian Onlooker",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Duskrider",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Grave Companion",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07SI007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Phantom Prankster",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Elise",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI053-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Spider Queen Elise",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI053T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ancient Crocolith",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI057-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Soul Shepherd",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hecarim",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI042-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Hecarim",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI042T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Vilemaw",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI027T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Cursed Keeper",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scribe of Sorrows",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kalista",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI030-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Kalista",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI030T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rhasa the Sunderer",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spiderling",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spectral Rider",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scuttlegeist",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sinister Poro",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Escaped Abomination",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI048T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thresh",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI052-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Commander Ledros",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Undying",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tortured Prodigy",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Oblivious Islander",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thresh",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI052T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Iron Harbinger",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hapless Aristocrat",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stirred Spirits",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Unleashed Spirit",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI007T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frenzied Skitterer",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ravenous Butcher",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mistwraith",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wraithcaller",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shark Chariot",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Chronicler of Ruin",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ethereal Remitter",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI058-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spectral Matron",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arachnoid Horror",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Rekindler",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI020-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Darkwater Scourge",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Warden's Prey",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Soulgorger",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01SI055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kindred",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI005-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Kindred",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI005T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Viego",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI055-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Viego",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI055T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Spirit Leech ",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Etherfiend",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sea Scarab",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Encroaching Mist",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Wings and The Wave",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Last Wind",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI004T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "First Wave",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI004T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Camavoran Soldier",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI054-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Astral Fox",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Soulspinner",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mask Mother",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crawling Viperwyrm",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Invasive Hydravine",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI053-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fading Icon",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Prey",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Camavoran Dragon",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mordekaiser",
+        "regions": [
+            "Noxus",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI042-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mordekaiser",
+        "regions": [
+            "Noxus",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI042T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Erastin, the Disgraced",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion of the Severed",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shackled Ghasts",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lonely Chimeslime",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thousand-Clawed Deathwinder",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI037T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spectral Ironhound",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Deathgrasp Cultist",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spectral Surveyor",
+        "regions": [
+            "Shadow Isles",
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Amalgamation Of Vile Rites",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Necrotic Arachnoid",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SI010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Necrotic Nestling",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SI010T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tufted Webspinner",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SI012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Proliferating Darkwraith",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SI013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Minion",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC119-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Veigar",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC093-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Grand Overseer Veigar",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC093T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tenor of Terror",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC096-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bass of Burden",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC096T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lil Dipper",
+        "regions": [
+            "Bandle City",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC079-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mistkeepers",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Senna",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Watcher on the Isles",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Solari Sentinel",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ixtali Sentinel",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dess & Ada",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Senna",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI009T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Burgeoning Sentinel",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Buhru Sentinel",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI015-full.png",
+        "supertype": ""
+    }
+]

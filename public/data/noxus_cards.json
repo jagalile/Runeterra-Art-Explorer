@@ -1,0 +1,1003 @@
+[
+    {
+        "name": "The Leviathan",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02NX001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Swain",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02NX007-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Swain",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02NX007T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Citybreaker",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02NX006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Aurok Glinthorn ",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02NX002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Imperial Demolitionist",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02NX004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Armored Tuskrider",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02NX010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Iron Ballista",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set2/en_us/img/cards/02NX005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Noxian Defector",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06NX019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Naganeka of Zuretta",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06NX020T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ionian Hookmaster",
+        "regions": [
+            "Noxus",
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06NX023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Skulking String-Puller",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06NX044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Pigeon",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06NX041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rune Squire",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06NX036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lord Broadmane",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Annie",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX012-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Annie",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX012T7-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Tibbers",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX012T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Obedient Drakehound",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Deserter",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spell Slinger",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tybaulk",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX028T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Captive Yeti",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Captive Greyback",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Manasoul Student",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Prefect",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Desperate Husk",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Riven",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX007-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Riven",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX007T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Arrel the Tracker",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Wrathful Rider",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Basilisk Bloodseeker",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blade Squire",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Runeweaver",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Brutal Hunter",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Elegant Edge",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07NX008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Samira",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07NX007-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Samira",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07NX007T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Dashing Dandy",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07NX006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dame the Despoiler",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07NX015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Adroit Artificer",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07NX004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Daring Demolisher",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07NX001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Captain Indari",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07NX005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Draven",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX020-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Draven",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX020T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Vladimir",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX006-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Vladimir",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX006T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Crimson Curator",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX048-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Darius",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX038-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Arachnoid Host",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arachnoid Sentry",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Saboteur",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Darius",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX038T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "House Spider",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Disciple",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX030-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arena Battlecaster",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Marauder",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crowd Favorite",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Veteran",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shiraza the Blade",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Katarina",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX042-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Katarina",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX042T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Captain Farron",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Rearguard",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Grenadier",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion General",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Legion Drummer",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arena Bookie",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Shieldbreaker",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Minotaur Reckoner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Battering Ram",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Aristocrat",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Hopeful",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Precious Pet",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Assessor",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Savage Reckoner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX045-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Gloryseeker",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Basilisk Rider",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Affectionate Poro",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Draven's Biggest Fan",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Reckless Trifarian",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Awakener",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kato The Arm",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set1/en_us/img/cards/01NX024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thorn of the Rose",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Retired Reckoner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ruined Reckoner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thrashing Snapper",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Incisive Tactician",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Black Rose Spy",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "LeBlanc",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX004-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "LeBlanc",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX004T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Shrieking Spinner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Atakhan, Bringer of Ruin",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Bloodletter ",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04NX018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mordekaiser",
+        "regions": [
+            "Noxus",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI042-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Mordekaiser",
+        "regions": [
+            "Noxus",
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI042T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Enraged Firespitter",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08NX003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Iron Legionary",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08NX024-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Red-Barbed Razormace",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08NX019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Headmistress Telsi",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08NX014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Armed Acquisitioner",
+        "regions": [
+            "Noxus",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08NX012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lord Mallat",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08NX009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bladepierced Revenant",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08NX025-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Captain Kalrix",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07NX028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bonehide Tri-tail",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07NX033-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Earthshaker",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC086-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rumble",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC088-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rumble",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC088T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Arena Mechacaster",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC190-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Arena Kingpin",
+        "regions": [
+            "Bandle City",
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC129-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Lost Soul",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Reborn Grenadier",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Risen Reckoner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ancient Warmonger",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sion",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX001-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Fallen Reckoner",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fallen Rider",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Risen Rider",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sion Returned",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX001T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Sion",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX001T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Twinblade Revenant",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Grave Physician",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Lady of Blood",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Noble Rebel",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05NX002-full.png",
+        "supertype": ""
+    }
+]

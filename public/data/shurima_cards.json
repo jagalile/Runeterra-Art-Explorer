@@ -1,0 +1,961 @@
+[
+    {
+        "name": "Darkinthrall",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH004T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Forsaken Baccai",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Camouflaged Horror",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rockbear Shepherd",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH051-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Priestess Of Desert Light",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Xolaani",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH004T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fireth, Reaper of the Sands",
+        "regions": [
+            "Shadow Isles",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Icathian Mirage",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI031T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Warded Husk",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T8-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Void Abomination",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hive Herald",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kai'Sa",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH009-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Baccai Witherclaw",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH037-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Belvethi Elder",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH008-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Kai'Sa",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH009T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Voidling",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Void Blaster",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Domination",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Fallen Sands General",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07SH023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Secret Keeper",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07SH018-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Baccai Sandspinner",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH081-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Voice of the Risen",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH077-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rek'Sai",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH019-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Rek'Sai",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH019T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Desert Naturalist",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH089-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Raz Bloodmane",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sandcrafter",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH058-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Treasure Seeker",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH054-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Baccai Reaper",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Callous Bonecrusher",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ruin Runner",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH055-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Zilean",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH039-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Zilean",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH039T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Taliyah",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH073-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Taliyah",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH073T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Khahiri the Student",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH091-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Azir",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Azir",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Azir",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Sandstone Charger",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T14-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Golden Herald",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T5-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sand Soldier",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Eternal Gladiator",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T8-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Emperor's Guard",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T11-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Xenotype Researchers",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Akshan",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH130-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Akshan",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH130T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Renekton",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH067-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Renekton",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH067T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Renekton",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH067T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Xer'sai Caller",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH068-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rock Hopper",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Preservationist",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH104-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vekauran Vagabond",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH128-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Profiteer",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH056-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sivir",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH020-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Inspiring Marshal",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH057-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Merciless Hunter",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH103-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Xerxa'Reth, The Undertitan",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH065-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Clock Hand",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH034-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rampaging Baccai",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Destined Poro",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH049-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Exalted Poro",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH049T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nasus",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH047-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Sanctum Conservator",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH097-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dunekeeper",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Golden Ambassador",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH102-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Aspiring Chronomancer",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Xer'sai Dunebreaker",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vekauran Safecracker",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH125-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Clockling",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nasus",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH047T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Nasus",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH047T3-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Khahiri the Returned",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Devoted Council",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH101-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Esteemed Hierophant",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sivir",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH020T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Clockwork Curator",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Soothsayer",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH072-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sai Scout",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH041-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bloodthirsty Marauder",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sandstone Chimera",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Xer'sai Hatchling",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH074-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Thrumming Swarm",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH137-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vekauran Bruiser",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH129-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Grumpy Rockbear",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH090-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Armed Acquisitioner",
+        "regions": [
+            "Noxus",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08NX012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Horned Swarmcaller",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SH014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "General of the Dunes",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SH004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Defenders of the Sun Disc",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SH005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Tomb-Raider Barbara",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SH012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dune Swallower",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SH002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pakaa Cub",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Pakaa Protector",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH038T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Nidalee",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH013-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Packmother Nidalee",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH013T4-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Shadow in the Brush",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH013T6-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Avenging Vastaya",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "All-Terrain Trooper",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH039-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Aurora Hallunatis",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH044-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blimp-Pack Poacher",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Towering Pairofant",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH043-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bristlehog",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Big Game Tycoon",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ziggs",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC163-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Ziggs",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC163T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Dunehopper Mech",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC196-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Bomber Twins",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC192-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hothead",
+        "regions": [
+            "Bandle City",
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC130-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Xerath",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH014-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Xerath",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH014T1-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Xerath",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH014T2-full.png",
+        "supertype": "Champion"
+    },
+    {
+        "name": "Herald of the Magus",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH017-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Endless Devout",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Restored Devout",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH011T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ruinous Acolyte",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Dami'yin the Unbound",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH012T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sandseer",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Waste Walker",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH002-full.png",
+        "supertype": ""
+    }
+]
