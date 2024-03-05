@@ -4,11 +4,12 @@
     --text-color: #b2a895;
     --primary-accent-color: #c49250;
     --second-accent-color: #d5d2c9;
+    --card-border-color: #c4925046;
 }
 
 body {
     background-color: var(--primary-background-color);
-    color: #b2a895;
+    color: var(--text-color);
 }
 
 h1 {
@@ -42,7 +43,7 @@ ul {
 }
 
 .card-border {
-    border-color: #c4925046;
+    border-color: var(--card-border-color);
 }
 
 .footer {
@@ -82,10 +83,6 @@ ul {
 
 .nav-links:hover {
     cursor: pointer;
-}
-
-.aspect-ratio-hd {
-    aspect-ratio: 2048/1024;
 }
 
 .img-selector:hover {

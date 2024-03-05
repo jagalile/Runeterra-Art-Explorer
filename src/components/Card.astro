@@ -7,11 +7,18 @@ const { imagePath, altText, cardName, regions } = Astro.props;
 <div
     class="card xl:col-span-2 lg:col-span-5 md:col-span-10 sm:col-span-10 col-span-10 border rounded-xl card-border"
 >
-    <div class="aspect-ratio-hd">
-        <img src={imagePath} alt={altText} loading="lazy" class="rounded-xl" />
+    <div class="aspect-card">
+        <a href={imagePath} target="_blank">
+            <img
+                src={imagePath}
+                alt={altText}
+                loading="lazy"
+                class="rounded-xl"
+            />
+        </a>
     </div>
-    <div class="grid grid-cols-2 pl-5 mx-auto my-auto">
-        <div>
+    <div class="grid grid-cols-2 mx-auto my-auto">
+        <div class="ml-5">
             <h2>{cardName}</h2>
             <p>
                 {
@@ -21,25 +28,7 @@ const { imagePath, altText, cardName, regions } = Astro.props;
                 }{regions.slice(-1)}
             </p>
         </div>
-        <div class="grid grid-cols-2 gap-1 my-auto justify-items-end">
-            <a class="tooltip" href={imagePath} target="_blank">
-                <span class="tooltiptext">See image</span>
-                <svg
-                    class="w-6 h-6 img-selector"
-                    aria-hidden="true"
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 24 24"
-                >
-                    <path
-                        stroke="currentColor"
-                        stroke-linecap="round"
-                        stroke-width="2"
-                        d="m21 21-3.5-3.5M10 7v6m-3-3h6m4 0a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z"
-                    ></path>
-                </svg>
-            </a>
-            <button class="tooltip copy-img-url mr-5" value={imagePath}>
+        <button class="tooltip copy-img-url justify-self-end mr-5" value={imagePath}>
                 <span class="tooltiptext">Copy url</span>
                 <svg
                     class="w-6 h-6 img-selector"
@@ -56,6 +45,5 @@ const { imagePath, altText, cardName, regions } = Astro.props;
                     ></path>
                 </svg>
             </button>
-        </div>
     </div>
 </div>
