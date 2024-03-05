@@ -79,12 +79,6 @@ const regions = [
 ];
 ---
 
-<!-- <nav class="sticky top-0 pt-5 pb-5 navbar">
-  <h1 class="font-bold text-3xl text-center mb-3">{pageTitle}</h1>
-  <div class="grid grid-cols-11 gap-1 mx-auto justify-items-center">
-    {regions.map((region) => <a class="nav-links navbar-item text-lg uppercase">{region}</a>)}
-  </div>
-</nav> -->
 <nav class="sticky top-0 bg-background-100 z-10">
   <div class="flex flex-wrap items-center justify-between mx-auto p-5">
     <a href="/" class="flex items-center space-x-3 rtl:space-x-reverse">
@@ -135,7 +129,7 @@ const regions = [
               >
                 <img
                   src={region[1]}
-                  class="h-8 active:bg-violet-700"
+                  class="h-8"
                   alt={region[0]}
                 />
               </a>

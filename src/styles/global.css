@@ -7,11 +7,6 @@
     --card-border-color: #c4925046;
 }
 
-body {
-    background-color: var(--primary-background-color);
-    color: var(--text-color);
-}
-
 h1 {
     color: var(--primary-accent-color);
 }
@@ -42,19 +37,6 @@ ul {
     padding: 0;
 }
 
-.card-border {
-    border-color: var(--card-border-color);
-}
-
-.footer {
-    background-color: var(--second-background-color);
-}
-
-.navbar {
-    background-color: var(--primary-background-color);
-}
-
-
 .tooltip {
     position: relative;
     display: inline-block;
@@ -78,14 +60,6 @@ ul {
 
 .tooltip:hover .tooltiptext {
     visibility: visible;
-}
-
-.nav-links:hover {
-    cursor: pointer;
-}
-
-.img-selector:hover {
-    scale: 1.15;
 }
 
 .navbar-item {
