@@ -14,7 +14,7 @@
 ## Runeterra Art Explorer
 
 Runeterra Art Explorer is a web project aimed at showcasing the art of the video game Legends of Runeterra in a simple way.\
-[Reportar error](https://github.com/jagalile/Runeterra-Art-Explorer/issues) · [Sugerir algo](https://github.com/jagalile/Runeterra-Art-Explorer/issues)
+[Report an error](https://github.com/jagalile/Runeterra-Art-Explorer/issues) · [Suggest something](https://github.com/jagalile/Runeterra-Art-Explorer/issues)
 
 </div>
 
