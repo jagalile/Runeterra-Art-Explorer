@@ -112,11 +112,11 @@ Please refer to our [contribution guide](https://github.com/jagalile/Runeterra-A
 [astro-badge]: https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=bd303a&color=352563
 [typescript-badge]: https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=blue
 [tailwind-badge]: https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8
-[contributors-shield]: https://img.shields.io/github/contributors/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/jagalile/Runeterra-Art-Explorer?style=for-the-badge
 [contributors-url]: https://github.com/jagalile/Runeterra-Art-Explorer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/jagalile/Runeterra-Art-Explorer?style=for-the-badge
 [forks-url]: https://github.com/jagalile/Runeterra-Art-Explorer/network/members
-[stars-shield]: https://img.shields.io/github/stars/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jagalile/Runeterra-Art-Explorer?style=for-the-badge
 [stars-url]: https://github.com/jagalile/Runeterra-Art-Explorer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/midudev/la-velada-web-oficial.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jagalile/Runeterra-Art-Explorer?style=for-the-badge
 [issues-url]: https://github.com/jagalile/Runeterra-Art-Explorer/issues
