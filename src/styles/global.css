@@ -61,20 +61,3 @@ ul {
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
-
-.navbar-item {
-    margin-top: auto;
-    margin-bottom: auto;
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-}
-
-.navbar-item:hover {
-    text-decoration: underline;
-    text-decoration-thickness: 3px;
-    text-underline-offset: 1.25rem;
-    background-color: var(--second-background-color);
-    border-radius: 10px;
-}
