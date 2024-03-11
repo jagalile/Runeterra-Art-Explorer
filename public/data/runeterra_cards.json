@@ -24,12 +24,52 @@
         "supertype": "Champion"
     },
     {
+        "name": "Shard of Betrayal",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shard of Reverence",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T7-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shard of Hope",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T6-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Ryze",
         "regions": [
             "Runeterra"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T5-full.png",
         "supertype": "Champion"
+    },
+    {
+        "name": "Shard of Madness",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shard of Violence",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T4-full.png",
+        "supertype": ""
     },
     {
         "name": "Kayn",

@@ -89,6 +89,14 @@
         "supertype": ""
     },
     {
+        "name": "The Black Flame",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO037-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Vastayan Disciple",
         "regions": [
             "Ionia"
@@ -126,6 +134,14 @@
             "Ionia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mistfall",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO030-full.png",
         "supertype": ""
     },
     {
@@ -185,6 +201,14 @@
         "supertype": ""
     },
     {
+        "name": "Windswept Hillock",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06IO010-full.png",
+        "supertype": ""
+    },
+    {
         "name": "The Stagehand",
         "regions": [
             "Ionia"
@@ -198,6 +222,14 @@
             "Ionia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06IO035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Monastery of Hirana",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO006-full.png",
         "supertype": ""
     },
     {
@@ -968,6 +1000,14 @@
             "Ionia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "God-Willow Seedling",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO021-full.png",
         "supertype": ""
     },
     {

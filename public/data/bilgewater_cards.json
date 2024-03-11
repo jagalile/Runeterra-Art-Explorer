@@ -587,6 +587,14 @@
         "supertype": ""
     },
     {
+        "name": "The Slaughter Docks",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW001-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Crusty Codger",
         "regions": [
             "Bilgewater"
@@ -779,6 +787,22 @@
         "supertype": ""
     },
     {
+        "name": "Ripper's Bay",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Reaver's Row",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW013-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Ruined Rex",
         "regions": [
             "Bilgewater"
@@ -868,11 +892,27 @@
         "supertype": ""
     },
     {
+        "name": "Marai Reef Spire",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW036-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Vikrash the Exuberant",
         "regions": [
             "Bilgewater"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW023-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Swindler's Den",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07BW035-full.png",
         "supertype": ""
     },
     {

@@ -72,6 +72,14 @@
         "supertype": "Champion"
     },
     {
+        "name": "Back Alley Bar",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ040-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Fanclub President",
         "regions": [
             "Piltover & Zaun"
@@ -169,6 +177,14 @@
         "supertype": ""
     },
     {
+        "name": "The University of Piltover",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ001-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Patched Porobot",
         "regions": [
             "Piltover & Zaun"
@@ -214,6 +230,14 @@
             "Piltover & Zaun"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hexcore Foundry",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ020-full.png",
         "supertype": ""
     },
     {
@@ -822,6 +846,14 @@
         "supertype": ""
     },
     {
+        "name": "Sunken Temple",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ009-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Charlatan Fishmonger",
         "regions": [
             "Piltover & Zaun"
@@ -851,6 +883,14 @@
             "Piltover & Zaun"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07PZ021-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sump Monument",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07PZ013-full.png",
         "supertype": ""
     },
     {
@@ -991,6 +1031,14 @@
             "Piltover & Zaun"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ014-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Forge Of Tomorrow",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ021-full.png",
         "supertype": ""
     },
     {

@@ -112,6 +112,14 @@
         "supertype": ""
     },
     {
+        "name": "Ornn's Forge",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR005-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Warden of the Tribes",
         "regions": [
             "Freljord"
@@ -209,11 +217,27 @@
         "supertype": ""
     },
     {
+        "name": "The Howling Abyss",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR009-full.png",
+        "supertype": ""
+    },
+    {
         "name": "It That Stares",
         "regions": [
             "Freljord"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Scargrounds",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR020-full.png",
         "supertype": ""
     },
     {
@@ -721,6 +745,30 @@
         "supertype": ""
     },
     {
+        "name": "Frozen Thrall",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frozen Tomb",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR007T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blighted Ravine",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR014-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Fabled Poro",
         "regions": [
             "Freljord"
@@ -809,6 +857,14 @@
         "supertype": ""
     },
     {
+        "name": "Sigil of the Storm",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR002T1-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Berserker Ursine",
         "regions": [
             "Freljord"
@@ -823,6 +879,14 @@
             "Freljord"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08DE006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Temple to True Ice",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07FR011-full.png",
         "supertype": ""
     },
     {

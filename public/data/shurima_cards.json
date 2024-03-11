@@ -8,6 +8,38 @@
         "supertype": ""
     },
     {
+        "name": "Buried Armory",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Altar of Blood",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Acolyte's Reliquary",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Void Gate",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH028-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Forsaken Baccai",
         "regions": [
             "Shurima"
@@ -121,6 +153,14 @@
         "supertype": "Champion"
     },
     {
+        "name": "Chamber of Renewal",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH036-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Voidling",
         "regions": [
             "Shurima"
@@ -217,6 +257,14 @@
         "supertype": ""
     },
     {
+        "name": "Ancient Preparations",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH028-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Treasure Seeker",
         "regions": [
             "Shurima"
@@ -230,6 +278,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hibernating Rockbear",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH042-full.png",
         "supertype": ""
     },
     {
@@ -255,6 +311,14 @@
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH039-full.png",
         "supertype": "Champion"
+    },
+    {
+        "name": "Time Bomb",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH060T1-full.png",
+        "supertype": ""
     },
     {
         "name": "Zilean",
@@ -286,6 +350,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH091-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Salt Spire",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH024-full.png",
         "supertype": ""
     },
     {
@@ -326,6 +398,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T5-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "General's Palace",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T10-full.png",
         "supertype": ""
     },
     {
@@ -375,6 +455,22 @@
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH130T2-full.png",
         "supertype": "Champion"
+    },
+    {
+        "name": "Warlord's Palace",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH130T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Warlord's Hoard",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH130T6-full.png",
+        "supertype": ""
     },
     {
         "name": "Renekton",
@@ -433,6 +529,14 @@
         "supertype": ""
     },
     {
+        "name": "Inner Sanctum",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH048-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Profiteer",
         "regions": [
             "Shurima"
@@ -462,6 +566,22 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH103-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Roiling Sands",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stasis Statue",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH076T1-full.png",
         "supertype": ""
     },
     {
@@ -550,6 +670,22 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Preservarium",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Buried Sun Disc",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH062-full.png",
         "supertype": ""
     },
     {
@@ -657,6 +793,22 @@
         "supertype": ""
     },
     {
+        "name": "Restored Sun Disc",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH062T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sandswept Tomb",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH105-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Xer'sai Hatchling",
         "regions": [
             "Shurima"
@@ -670,6 +822,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH137-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Emperor's Dais",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH051-full.png",
         "supertype": ""
     },
     {
@@ -810,6 +970,22 @@
         "supertype": ""
     },
     {
+        "name": "Bushwhack Trap",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Valley of Imitation",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH046-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Towering Pairofant",
         "regions": [
             "Shurima"
@@ -927,11 +1103,35 @@
         "supertype": ""
     },
     {
+        "name": "Sarcophagus",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH011T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Obelisk of Power",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH003-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Ruinous Acolyte",
         "regions": [
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Risen Altar",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH012-full.png",
         "supertype": ""
     },
     {

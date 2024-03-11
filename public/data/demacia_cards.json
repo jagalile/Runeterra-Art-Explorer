@@ -193,11 +193,27 @@
         "supertype": ""
     },
     {
+        "name": "Petricite Pillar",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06DE035-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Protective Broodfather",
         "regions": [
             "Demacia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06DE036-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Grand Plaza",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE010-full.png",
         "supertype": ""
     },
     {
@@ -278,6 +294,14 @@
             "Demacia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Altar to Unity",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07DE008-full.png",
         "supertype": ""
     },
     {

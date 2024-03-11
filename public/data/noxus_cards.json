@@ -145,6 +145,14 @@
         "supertype": ""
     },
     {
+        "name": "The Gray Apothecary",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX029-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Obedient Drakehound",
         "regions": [
             "Noxus"
@@ -166,6 +174,22 @@
             "Noxus"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Training Pits",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ravenbloom Conservatory",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX028-full.png",
         "supertype": ""
     },
     {
@@ -278,6 +302,14 @@
             "Noxus"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Noxkraya Arena",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX004-full.png",
         "supertype": ""
     },
     {
@@ -833,6 +865,14 @@
             "Noxus"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07NX028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Banquet Hall",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07NX034-full.png",
         "supertype": ""
     },
     {

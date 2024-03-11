@@ -121,6 +121,14 @@
         "supertype": ""
     },
     {
+        "name": "Dragon Roost",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT039-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Esmus, Breath of the World",
         "regions": [
             "Targon"
@@ -137,6 +145,14 @@
         "supertype": ""
     },
     {
+        "name": "Mystic Vortex",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT047-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Starhound Pack",
         "regions": [
             "Targon"
@@ -150,6 +166,22 @@
             "Targon"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06RU025T9-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Star Spring",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT052-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Targon's Peak",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT064-full.png",
         "supertype": ""
     },
     {
@@ -609,6 +641,14 @@
         "supertype": ""
     },
     {
+        "name": "The Veiled Temple",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT219-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Starry Scamp",
         "regions": [
             "Targon"
@@ -729,6 +769,14 @@
         "supertype": ""
     },
     {
+        "name": "Eye of the Ra-Horak",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT014-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Malphite",
         "regions": [
             "Targon"
@@ -745,11 +793,35 @@
         "supertype": "Champion"
     },
     {
+        "name": "Startipped Peak",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT010-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Chip",
         "regions": [
             "Targon"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spiral Stairs",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rockfall Path",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT001-full.png",
         "supertype": ""
     },
     {
@@ -782,6 +854,14 @@
             "Targon"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crest of Insight",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT004T1-full.png",
         "supertype": ""
     },
     {

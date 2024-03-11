@@ -96,6 +96,14 @@
         "supertype": ""
     },
     {
+        "name": "Opulent Foyer",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI014-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Redeemed Prodigy",
         "regions": [
             "Shadow Isles"
@@ -201,6 +209,14 @@
         "supertype": ""
     },
     {
+        "name": "Haunted Tomb",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI033-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Boisterous Host",
         "regions": [
             "Shadow Isles"
@@ -230,6 +246,14 @@
             "Shadow Isles"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI019-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vaults of Helia",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI009-full.png",
         "supertype": ""
     },
     {
@@ -673,6 +697,14 @@
         "supertype": ""
     },
     {
+        "name": "The Twisted Treeline",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI018-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Sea Scarab",
         "regions": [
             "Shadow Isles"
@@ -851,6 +883,14 @@
         "supertype": ""
     },
     {
+        "name": "Threshold of the Grey",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI036-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Deathgrasp Cultist",
         "regions": [
             "Shadow Isles"
@@ -959,6 +999,14 @@
             "Shadow Isles"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC079-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Catalogue of Regrets",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI014-full.png",
         "supertype": ""
     },
     {

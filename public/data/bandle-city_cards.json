@@ -91,6 +91,14 @@
         "supertype": ""
     },
     {
+        "name": "Skrappy's Partsapalooza",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC041-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Realm's Caretaker",
         "regions": [
             "Bandle City"
@@ -136,6 +144,14 @@
             "Bandle City"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BC031-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Papertree",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BC035-full.png",
         "supertype": ""
     },
     {
@@ -588,6 +604,14 @@
         "supertype": ""
     },
     {
+        "name": "Hexplosive Minefield",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC027-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Bandle Commando",
         "regions": [
             "Bandle City"
@@ -644,6 +668,14 @@
             "Bandle City"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC177-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Bandle Tree",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC194-full.png",
         "supertype": ""
     },
     {
@@ -910,6 +942,14 @@
             "Bandle City"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC155-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scrappy Bomb",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC073T1-full.png",
         "supertype": ""
     },
     {

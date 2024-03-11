@@ -980,12 +980,52 @@
         "supertype": "Champion"
     },
     {
+        "name": "Shard of Betrayal",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shard of Reverence",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T7-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shard of Hope",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T6-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Ryze",
         "regions": [
             "Runeterra"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T5-full.png",
         "supertype": "Champion"
+    },
+    {
+        "name": "Shard of Madness",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Shard of Violence",
+        "regions": [
+            "Runeterra"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06RU006T4-full.png",
+        "supertype": ""
     },
     {
         "name": "Kayn",
@@ -1097,6 +1137,14 @@
             "Freljord"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ornn's Forge",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06FR005-full.png",
         "supertype": ""
     },
     {
@@ -1220,6 +1268,14 @@
         "supertype": ""
     },
     {
+        "name": "Skrappy's Partsapalooza",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06BC041-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Realm's Caretaker",
         "regions": [
             "Bandle City"
@@ -1249,6 +1305,14 @@
             "Ionia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Black Flame",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO037-full.png",
         "supertype": ""
     },
     {
@@ -1289,6 +1353,14 @@
             "Ionia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO015-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mistfall",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06IO030-full.png",
         "supertype": ""
     },
     {
@@ -1346,6 +1418,14 @@
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ021T2-full.png",
         "supertype": "Champion"
+    },
+    {
+        "name": "Back Alley Bar",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06PZ040-full.png",
+        "supertype": ""
     },
     {
         "name": "Fanclub President",
@@ -1458,6 +1538,38 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH004T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Buried Armory",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH032-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Altar of Blood",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH035-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Acolyte's Reliquary",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH046-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Void Gate",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SH028-full.png",
         "supertype": ""
     },
     {
@@ -1630,6 +1742,14 @@
         "supertype": ""
     },
     {
+        "name": "Opulent Foyer",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6cde/en_us/img/cards/06SI014-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Redeemed Prodigy",
         "regions": [
             "Shadow Isles"
@@ -1719,6 +1839,14 @@
         "supertype": ""
     },
     {
+        "name": "The Gray Apothecary",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX029-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Obedient Drakehound",
         "regions": [
             "Noxus"
@@ -1740,6 +1868,22 @@
             "Noxus"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Trifarian Training Pits",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX040-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Ravenbloom Conservatory",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06NX028-full.png",
         "supertype": ""
     },
     {
@@ -1791,6 +1935,14 @@
         "supertype": ""
     },
     {
+        "name": "Dragon Roost",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT039-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Esmus, Breath of the World",
         "regions": [
             "Targon"
@@ -1804,6 +1956,14 @@
             "Targon"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Mystic Vortex",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06MT047-full.png",
         "supertype": ""
     },
     {
@@ -1991,11 +2151,27 @@
         "supertype": ""
     },
     {
+        "name": "The Papertree",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06BC035-full.png",
+        "supertype": ""
+    },
+    {
         "name": "The Maker",
         "regions": [
             "Ionia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06IO004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Windswept Hillock",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06IO010-full.png",
         "supertype": ""
     },
     {
@@ -2175,6 +2351,14 @@
         "supertype": "Champion"
     },
     {
+        "name": "Chamber of Renewal",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SH036-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Voidling",
         "regions": [
             "Shurima"
@@ -2204,6 +2388,14 @@
             "Demacia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06DE038-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Petricite Pillar",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06DE035-full.png",
         "supertype": ""
     },
     {
@@ -2260,6 +2452,14 @@
             "Shadow Isles"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI026-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Haunted Tomb",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set6/en_us/img/cards/06SI033-full.png",
         "supertype": ""
     },
     {
@@ -2399,6 +2599,14 @@
         "supertype": ""
     },
     {
+        "name": "The Slaughter Docks",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03BW001-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Crusty Codger",
         "regions": [
             "Bilgewater"
@@ -2431,11 +2639,75 @@
         "supertype": ""
     },
     {
+        "name": "The Grand Plaza",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE010-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Howling Abyss",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Vaults of Helia",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03SI009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Monastery of Hirana",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03IO006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Noxkraya Arena",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03NX004-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Captain Arrika",
         "regions": [
             "Demacia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE004-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Star Spring",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT052-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Targon's Peak",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT064-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The University of Piltover",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ001-full.png",
         "supertype": ""
     },
     {
@@ -2903,6 +3175,14 @@
         "supertype": ""
     },
     {
+        "name": "The Veiled Temple",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03MT219-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Starry Scamp",
         "regions": [
             "Targon"
@@ -3052,6 +3332,14 @@
             "Piltover & Zaun"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ012-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hexcore Foundry",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03PZ020-full.png",
         "supertype": ""
     },
     {
@@ -3286,6 +3574,14 @@
             "Demacia"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03DE007-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Scargrounds",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set3/en_us/img/cards/03FR020-full.png",
         "supertype": ""
     },
     {
@@ -3702,6 +3998,14 @@
             "Bandle City"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07BC005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Altar to Unity",
+        "regions": [
+            "Demacia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7/en_us/img/cards/07DE008-full.png",
         "supertype": ""
     },
     {
@@ -5917,6 +6221,22 @@
         "supertype": ""
     },
     {
+        "name": "Ripper's Bay",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Reaver's Row",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04BW013-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Ruined Rex",
         "regions": [
             "Bilgewater"
@@ -6077,6 +6397,14 @@
         "supertype": ""
     },
     {
+        "name": "Ancient Preparations",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH028-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Treasure Seeker",
         "regions": [
             "Shurima"
@@ -6090,6 +6418,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Hibernating Rockbear",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH042-full.png",
         "supertype": ""
     },
     {
@@ -6115,6 +6451,14 @@
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH039-full.png",
         "supertype": "Champion"
+    },
+    {
+        "name": "Time Bomb",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH060T1-full.png",
+        "supertype": ""
     },
     {
         "name": "Zilean",
@@ -6146,6 +6490,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH091-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Salt Spire",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH024-full.png",
         "supertype": ""
     },
     {
@@ -6186,6 +6538,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T5-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "General's Palace",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH003T10-full.png",
         "supertype": ""
     },
     {
@@ -6235,6 +6595,22 @@
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH130T2-full.png",
         "supertype": "Champion"
+    },
+    {
+        "name": "Warlord's Palace",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH130T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Warlord's Hoard",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH130T6-full.png",
+        "supertype": ""
     },
     {
         "name": "Renekton",
@@ -6293,6 +6669,14 @@
         "supertype": ""
     },
     {
+        "name": "Inner Sanctum",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH048-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Profiteer",
         "regions": [
             "Shurima"
@@ -6322,6 +6706,22 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH103-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Roiling Sands",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH006-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Stasis Statue",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH076T1-full.png",
         "supertype": ""
     },
     {
@@ -6410,6 +6810,22 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH022-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Preservarium",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH013-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Buried Sun Disc",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH062-full.png",
         "supertype": ""
     },
     {
@@ -6517,6 +6933,22 @@
         "supertype": ""
     },
     {
+        "name": "Restored Sun Disc",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH062T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sandswept Tomb",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH105-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Xer'sai Hatchling",
         "regions": [
             "Shurima"
@@ -6530,6 +6962,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH137-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Emperor's Dais",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SH051-full.png",
         "supertype": ""
     },
     {
@@ -6594,6 +7034,30 @@
             "Freljord"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR019T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frozen Thrall",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR001-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Frozen Tomb",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR007T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Blighted Ravine",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04FR014-full.png",
         "supertype": ""
     },
     {
@@ -6757,6 +7221,14 @@
         "supertype": ""
     },
     {
+        "name": "The Twisted Treeline",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04SI018-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Sea Scarab",
         "regions": [
             "Shadow Isles"
@@ -6869,6 +7341,14 @@
         "supertype": ""
     },
     {
+        "name": "Eye of the Ra-Horak",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT014-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Malphite",
         "regions": [
             "Targon"
@@ -6885,11 +7365,35 @@
         "supertype": "Champion"
     },
     {
+        "name": "Startipped Peak",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT010-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Chip",
         "regions": [
             "Targon"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Spiral Stairs",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT009-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Rockfall Path",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT001-full.png",
         "supertype": ""
     },
     {
@@ -6922,6 +7426,14 @@
             "Targon"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT003-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crest of Insight",
+        "regions": [
+            "Targon"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set4/en_us/img/cards/04MT004T1-full.png",
         "supertype": ""
     },
     {
@@ -7103,6 +7615,14 @@
         "supertype": ""
     },
     {
+        "name": "Threshold of the Grey",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08SI036-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Deathgrasp Cultist",
         "regions": [
             "Shadow Isles"
@@ -7209,6 +7729,14 @@
         "supertype": ""
     },
     {
+        "name": "Marai Reef Spire",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08BW036-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Vikrash the Exuberant",
         "regions": [
             "Bilgewater"
@@ -7278,6 +7806,14 @@
             "Piltover & Zaun"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ026T1-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sunken Temple",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08PZ009-full.png",
         "supertype": ""
     },
     {
@@ -7358,6 +7894,14 @@
             "Freljord"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR002-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Sigil of the Storm",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set8/en_us/img/cards/08FR002T1-full.png",
         "supertype": ""
     },
     {
@@ -7694,6 +8238,14 @@
         "supertype": ""
     },
     {
+        "name": "Sump Monument",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07PZ013-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Runaway Scraptrap",
         "regions": [
             "Piltover & Zaun"
@@ -7707,6 +8259,14 @@
             "Noxus"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07NX028-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Crimson Banquet Hall",
+        "regions": [
+            "Noxus"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07NX034-full.png",
         "supertype": ""
     },
     {
@@ -7748,6 +8308,14 @@
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07RU012T2-full.png",
         "supertype": "Champion"
+    },
+    {
+        "name": "The Swindler's Den",
+        "regions": [
+            "Bilgewater"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07BW035-full.png",
+        "supertype": ""
     },
     {
         "name": "Deck Hunter",
@@ -7854,6 +8422,22 @@
         "supertype": ""
     },
     {
+        "name": "Bushwhack Trap",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH011-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Valley of Imitation",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH046-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Towering Pairofant",
         "regions": [
             "Shurima"
@@ -7875,6 +8459,14 @@
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07SH005-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Temple to True Ice",
+        "regions": [
+            "Freljord"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set7b/en_us/img/cards/07FR011-full.png",
         "supertype": ""
     },
     {
@@ -8344,6 +8936,14 @@
         "supertype": ""
     },
     {
+        "name": "Hexplosive Minefield",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC027-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Bandle Commando",
         "regions": [
             "Bandle City"
@@ -8400,6 +9000,14 @@
             "Bandle City"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC177-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "The Bandle Tree",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC194-full.png",
         "supertype": ""
     },
     {
@@ -8666,6 +9274,14 @@
             "Bandle City"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC155-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Scrappy Bomb",
+        "regions": [
+            "Bandle City"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05BC073T1-full.png",
         "supertype": ""
     },
     {
@@ -9047,6 +9663,14 @@
         "supertype": ""
     },
     {
+        "name": "God-Willow Seedling",
+        "regions": [
+            "Ionia"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05IO021-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Woodland Keeper",
         "regions": [
             "Ionia"
@@ -9127,11 +9751,35 @@
         "supertype": ""
     },
     {
+        "name": "Sarcophagus",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH011T2-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Obelisk of Power",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH003-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Ruinous Acolyte",
         "regions": [
             "Shurima"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH016-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Risen Altar",
+        "regions": [
+            "Shurima"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SH012-full.png",
         "supertype": ""
     },
     {
@@ -9439,6 +10087,14 @@
         "supertype": ""
     },
     {
+        "name": "The Forge Of Tomorrow",
+        "regions": [
+            "Piltover & Zaun"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ021-full.png",
+        "supertype": ""
+    },
+    {
         "name": "Forge Chief",
         "regions": [
             "Piltover & Zaun"
@@ -9500,6 +10156,14 @@
             "Piltover & Zaun"
         ],
         "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05PZ029-full.png",
+        "supertype": ""
+    },
+    {
+        "name": "Catalogue of Regrets",
+        "regions": [
+            "Shadow Isles"
+        ],
+        "img": "http://dd.b.pvp.net/5_2_0/set5/en_us/img/cards/05SI014-full.png",
         "supertype": ""
     },
     {
