@@ -18,3 +18,69 @@ const { pageTitle } = Astro.props;
 		<slot />
 	</body>
 </html>
+
+<style is:global>
+	:root {
+		--primary-background-color: #272226;
+		--second-background-color: #464145;
+		--text-color: #b2a895;
+		--primary-accent-color: #c49250;
+		--second-accent-color: #d5d2c9;
+		--card-border-color: #c4925046;
+	}
+
+	h1 {
+		color: var(--primary-accent-color);
+	}
+
+	h2 {
+		color: var(--second-accent-color);
+	}
+
+	button {
+		color: var(--second-accent-color);
+	}
+
+	button:hover {
+		color: var(--primary-accent-color);
+	}
+
+	a {
+		color: var(--second-accent-color);
+	}
+
+	a:hover {
+		color: var(--primary-accent-color);
+	}
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.tooltip {
+		position: relative;
+		display: inline-block;
+	}
+
+	.tooltip .tooltiptext {
+		visibility: hidden;
+		width: 120px;
+		background-color: var(--second-background-color);
+		color: var(--second-accent-color);
+		text-align: center;
+		border-radius: 6px;
+		padding: 5px 0;
+
+		/* Position the tooltip */
+		position: absolute;
+		bottom: 100%;
+		left: 50%;
+		margin-left: -60px;
+	}
+
+	.tooltip:hover .tooltiptext {
+		visibility: visible;
+	}
+</style>
